@@ -1,0 +1,4 @@
+C:\Users\Matteo\Desktop\SourceFiles>(for /r %f in (*.java) do @type "%f") | find /c /v "" 
+
+
+143798

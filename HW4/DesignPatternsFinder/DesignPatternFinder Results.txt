@@ -1,0 +1,26 @@
+Found 8 files that possibly contain design patterns.
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\j3d\Object3DBranchFactory.java
+Possible patterns: Factory
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\model\ObserverCamera.java
+Possible patterns: Observer
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing\ObserverCameraPanel.java
+Possible patterns: Observer
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing\SwingViewFactory.java
+Possible patterns: Factory
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\Object3DFactory.java
+Possible patterns: Factory
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\ObserverCameraController.java
+Possible patterns: Observer
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\ViewFactory.java
+Possible patterns: Factory
+
+C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\ViewFactoryAdapter.java
+Possible patterns: Adapter, Factory
+

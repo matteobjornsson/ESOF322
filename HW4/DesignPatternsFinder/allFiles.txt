@@ -1,0 +1,2618 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D227-DF8F
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src
+
+10/08/2019  01:13 PM    <DIR>          .
+10/08/2019  01:13 PM    <DIR>          ..
+07/10/2019  04:14 PM             1,254 .classpath
+07/10/2019  04:14 PM               370 .project
+07/10/2019  04:14 PM    <DIR>          .settings
+10/08/2019  01:13 PM                 0 allFiles.txt
+07/10/2019  04:14 PM            80,768 build.xml
+07/10/2019  04:14 PM            18,007 COPYING.TXT
+07/10/2019  04:14 PM    <DIR>          deploy
+07/10/2019  04:14 PM             6,109 freehep-vectorgraphics-svg-2.1.1b-src-diff.zip
+07/10/2019  04:14 PM    <DIR>          install
+07/10/2019  04:14 PM    <DIR>          lib
+07/10/2019  04:14 PM    <DIR>          libtest
+07/10/2019  04:14 PM               901 LICENSE.TXT
+07/10/2019  04:14 PM             3,233 README.TXT
+07/10/2019  04:14 PM    <DIR>          src
+07/10/2019  04:14 PM           118,040 sunflow-0.07.3i-src-diff.zip
+07/10/2019  04:14 PM    <DIR>          test
+07/10/2019  04:14 PM            11,929 THIRDPARTY-LICENSE-ABBOT.TXT
+07/10/2019  04:14 PM             3,284 THIRDPARTY-LICENSE-APPLEJAVAEXTENSIONS.TXT
+07/10/2019  04:14 PM            11,873 THIRDPARTY-LICENSE-BATIK.TXT
+07/10/2019  04:14 PM             1,831 THIRDPARTY-LICENSE-INNOSETUP.TXT
+07/10/2019  04:14 PM             8,029 THIRDPARTY-LICENSE-ITEXT.TXT
+07/10/2019  04:14 PM            11,519 THIRDPARTY-LICENSE-JAVA.TXT
+07/10/2019  04:14 PM            22,331 THIRDPARTY-LICENSE-JAVA3D.TXT
+07/10/2019  04:14 PM             1,995 THIRDPARTY-LICENSE-JDEPEND.TXT
+07/10/2019  04:14 PM             2,967 THIRDPARTY-LICENSE-JDOM.TXT
+07/10/2019  04:14 PM            18,399 THIRDPARTY-LICENSE-JEKSPARSER.TXT
+07/10/2019  04:14 PM             1,956 THIRDPARTY-LICENSE-JIP.TXT
+07/10/2019  04:14 PM            21,381 THIRDPARTY-LICENSE-JMF.HTML
+07/10/2019  04:14 PM            16,846 THIRDPARTY-LICENSE-JOGL.TXT
+07/10/2019  04:14 PM             2,133 THIRDPARTY-LICENSE-LAUNCH4J.TXT
+07/10/2019  04:14 PM             1,680 THIRDPARTY-LICENSE-SUNFLOW.TXT
+07/10/2019  04:14 PM                93 THIRDPARTY-LICENSE-TANGO.TXT
+07/10/2019  04:14 PM             8,031 THIRDPARTY-LICENSE-VECTORGRAPHICS.TXT
+              26 File(s)        374,959 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\.settings
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               243 org.eclipse.core.resources.prefs
+07/10/2019  04:14 PM                79 org.eclipse.core.runtime.prefs
+07/10/2019  04:14 PM            25,031 org.eclipse.jdt.core.prefs
+07/10/2019  04:14 PM             6,219 org.eclipse.jdt.ui.prefs
+               4 File(s)         31,572 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\deploy
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             1,084 deleteHome.php
+07/10/2019  04:14 PM             1,196 listHomes.php
+07/10/2019  04:14 PM             1,079 readHome.php
+07/10/2019  04:14 PM             4,521 SweetHome3D.jnlp
+07/10/2019  04:14 PM             6,357 SweetHome3DApplet.html
+07/10/2019  04:14 PM             2,621 SweetHome3DApplet.jnlp
+07/10/2019  04:14 PM            10,947 SweetHome3DIcon.gif
+07/10/2019  04:14 PM             1,870 SweetHome3DIcon32x32.png
+07/10/2019  04:14 PM             2,529 SweetHome3DIcon48x48.png
+07/10/2019  04:14 PM            36,687 SweetHome3DSplashScreen.jpg
+07/10/2019  04:14 PM             5,881 SweetHome3DViewer.html
+07/10/2019  04:14 PM             2,539 SweetHome3DViewer.jnlp
+07/10/2019  04:14 PM             1,212 writeHome.php
+              13 File(s)         78,523 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          linux
+07/10/2019  04:14 PM    <DIR>          macosx
+07/10/2019  04:14 PM    <DIR>          portable
+07/10/2019  04:14 PM    <DIR>          viewer
+07/10/2019  04:14 PM    <DIR>          windows
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\linux
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             1,081 SweetHome3D
+07/10/2019  04:14 PM               907 SweetHome3D-Java3D-1_5_2
+               2 File(s)          1,988 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          10.6
+07/10/2019  04:14 PM    <DIR>          Sweet Home 3D
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\10.6
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          Sweet Home 3D
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\10.6\Sweet Home 3D
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          Contents
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\10.6\Sweet Home 3D\Contents
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             7,852 Info.plist
+07/10/2019  04:14 PM    <DIR>          MacOS
+07/10/2019  04:14 PM    <DIR>          Resources
+               1 File(s)          7,852 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\10.6\Sweet Home 3D\Contents\MacOS
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            45,760 SweetHome3D
+               1 File(s)         45,760 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\10.6\Sweet Home 3D\Contents\Resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\Sweet Home 3D
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          Contents
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\Sweet Home 3D\Contents
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,448 Info.plist
+07/10/2019  04:14 PM    <DIR>          Java
+07/10/2019  04:14 PM    <DIR>          MacOS
+07/10/2019  04:14 PM    <DIR>          Resources
+               1 File(s)          6,448 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\Sweet Home 3D\Contents\Java
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               612 SweetHome3D.cfg
+               1 File(s)            612 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\Sweet Home 3D\Contents\MacOS
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           337,584 libpackager.dylib
+07/10/2019  04:14 PM            28,448 SweetHome3D
+               2 File(s)        366,032 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\macosx\Sweet Home 3D\Contents\Resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           582,882 SweetHome3D.icns
+07/10/2019  04:14 PM            42,433 SweetHome3DDocument.icns
+07/10/2019  04:14 PM            38,018 SweetHome3DFurnitureLibrary.icns
+07/10/2019  04:14 PM            38,302 SweetHome3DLanguageLibrary.icns
+07/10/2019  04:14 PM            54,060 SweetHome3DPlugin.icns
+07/10/2019  04:14 PM            41,382 SweetHome3DTexturesLibrary.icns
+               6 File(s)        797,077 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\portable
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             8,292 Info-10.6.plist
+07/10/2019  04:14 PM             3,191 README.TXT
+07/10/2019  04:14 PM             1,328 SweetHome3D-linux-x64
+07/10/2019  04:14 PM             1,329 SweetHome3D-linux-x86
+07/10/2019  04:14 PM             2,953 SweetHome3D-windows-x64.xml
+07/10/2019  04:14 PM             2,870 SweetHome3D-windows-x86.xml
+07/10/2019  04:14 PM               977 SweetHome3D.cfg
+               7 File(s)         20,940 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\viewer
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,990 README.TXT
+               1 File(s)          5,990 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\install\windows
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            19,858 Bulgarian.isl
+07/10/2019  04:14 PM            14,157 ChineseSimplified.isl
+07/10/2019  04:14 PM            14,592 ChineseTraditional.isl
+07/10/2019  04:14 PM            19,938 installerInnoSetup.iss
+07/10/2019  04:14 PM             2,499 installerLaunch4j-java3d-1.5.2-x64.xml
+07/10/2019  04:14 PM             2,542 installerLaunch4j-java3d-1.5.2-x86-d3d.xml
+07/10/2019  04:14 PM             2,414 installerLaunch4j-java3d-1.5.2-x86.xml
+07/10/2019  04:14 PM             2,656 installerLaunch4j-x64.xml
+07/10/2019  04:14 PM             2,571 installerLaunch4j-x86.xml
+07/10/2019  04:14 PM            20,566 signedInstallerInnoSetup.iss
+07/10/2019  04:14 PM            19,107 Swedish.isl
+07/10/2019  04:14 PM           108,469 SweetHome3D.ico
+              12 File(s)        229,369 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            40,506 batik-svgpathparser-1.7.jar
+07/10/2019  04:14 PM           472,119 freehep-vectorgraphics-svg-2.1.1b.jar
+07/10/2019  04:14 PM         1,130,070 iText-2.1.7.jar
+07/10/2019  04:14 PM         2,957,997 j3dcore.jar
+07/10/2019  04:14 PM         1,704,635 j3dutils.jar
+07/10/2019  04:14 PM    <DIR>          java3d-1.6
+07/10/2019  04:14 PM             9,739 jeksparser-calculator.jar
+07/10/2019  04:14 PM           977,907 jmf.jar
+07/10/2019  04:14 PM    <DIR>          linux
+07/10/2019  04:14 PM    <DIR>          macosx
+07/10/2019  04:14 PM           348,010 sunflow-0.07.3i.jar
+07/10/2019  04:14 PM           318,956 vecmath.jar
+07/10/2019  04:14 PM    <DIR>          windows
+               9 File(s)      7,959,939 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           360,530 gluegen-rt.jar
+07/10/2019  04:14 PM         3,057,013 j3dcore.jar
+07/10/2019  04:14 PM         1,755,976 j3dutils.jar
+07/10/2019  04:14 PM         3,463,472 jogl-all.jar
+07/10/2019  04:14 PM    <DIR>          linux
+07/10/2019  04:14 PM    <DIR>          macosx
+07/10/2019  04:14 PM           330,827 vecmath.jar
+07/10/2019  04:14 PM    <DIR>          windows
+               5 File(s)      8,967,818 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\linux
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          amd64
+07/10/2019  04:14 PM    <DIR>          i586
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\linux\amd64
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             9,888 libgluegen-rt.so
+07/10/2019  04:14 PM           757,104 libjogl_desktop.so
+07/10/2019  04:14 PM             7,392 libnativewindow_awt.so
+07/10/2019  04:14 PM            28,544 libnativewindow_x11.so
+               4 File(s)        802,928 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\linux\i586
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             8,128 libgluegen-rt.so
+07/10/2019  04:14 PM           694,292 libjogl_desktop.so
+07/10/2019  04:14 PM             5,708 libnativewindow_awt.so
+07/10/2019  04:14 PM            24,212 libnativewindow_x11.so
+               4 File(s)        732,340 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\macosx
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            35,184 libgluegen-rt.jnilib
+07/10/2019  04:14 PM         1,740,756 libjogl_desktop.jnilib
+07/10/2019  04:14 PM            29,808 libnativewindow_awt.jnilib
+07/10/2019  04:14 PM            87,988 libnativewindow_macosx.jnilib
+               4 File(s)      1,893,736 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\windows
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          amd64
+07/10/2019  04:14 PM    <DIR>          i586
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\windows\amd64
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            18,432 gluegen-rt.dll
+07/10/2019  04:14 PM           692,224 jogl_desktop.dll
+07/10/2019  04:14 PM            16,896 nativewindow_awt.dll
+07/10/2019  04:14 PM            31,744 nativewindow_win32.dll
+               4 File(s)        759,296 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\java3d-1.6\windows\i586
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            16,384 gluegen-rt.dll
+07/10/2019  04:14 PM           634,368 jogl_desktop.dll
+07/10/2019  04:14 PM            13,824 nativewindow_awt.dll
+07/10/2019  04:14 PM            28,160 nativewindow_win32.dll
+               4 File(s)        692,736 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\linux
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          i386
+07/10/2019  04:14 PM    <DIR>          x64
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\linux\i386
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,254 libj3dcore-ogl-cg.so
+07/10/2019  04:14 PM           159,326 libj3dcore-ogl.so
+               2 File(s)        164,580 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\linux\x64
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           158,623 libj3dcore-ogl.so
+               1 File(s)        158,623 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\macosx
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            18,416 gluegen-rt.jar
+07/10/2019  04:14 PM         1,126,370 jogl.jar
+07/10/2019  04:14 PM            49,800 libgluegen-rt.jnilib
+07/10/2019  04:14 PM         2,838,744 libjogl.jnilib
+07/10/2019  04:14 PM            50,312 libjogl_awt.jnilib
+07/10/2019  04:14 PM           470,352 libjogl_cg.jnilib
+               6 File(s)      4,553,994 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\windows
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          i386
+07/10/2019  04:14 PM    <DIR>          x64
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\windows\i386
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           823,296 j3dcore-d3d.dll
+07/10/2019  04:14 PM            40,960 j3dcore-ogl-cg.dll
+07/10/2019  04:14 PM            49,152 j3dcore-ogl-chk.dll
+07/10/2019  04:14 PM           163,840 j3dcore-ogl.dll
+               4 File(s)      1,077,248 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\lib\windows\x64
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           229,376 j3dcore-ogl.dll
+               1 File(s)        229,376 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\libtest
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM           349,055 abbot.jar
+07/10/2019  04:14 PM            25,467 AppleJavaExtensions.jar
+07/10/2019  04:14 PM            37,128 gnu-regexp-1.1.0.jar
+07/10/2019  04:14 PM            82,818 jdepend-2.9.jar
+07/10/2019  04:14 PM           157,134 jdom-1.0.jar
+07/10/2019  04:14 PM             7,801 jnlp.jar
+07/10/2019  04:14 PM           102,456 profile.jar
+               7 File(s)        761,859 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          eteks
+07/10/2019  04:14 PM    <DIR>          sun
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+10/08/2019  07:08 PM    <DIR>          sweethome3d
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d
+
+10/08/2019  07:08 PM    <DIR>          .
+10/08/2019  07:08 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          applet
+07/10/2019  04:14 PM             3,125 HomeFrameController.java
+07/10/2019  04:14 PM            21,849 HomeFramePane.java
+07/10/2019  04:14 PM    <DIR>          io
+07/10/2019  04:14 PM    <DIR>          j3d
+07/10/2019  04:14 PM            36,907 MacOSXConfiguration.java
+07/10/2019  04:14 PM    <DIR>          model
+07/10/2019  04:14 PM             1,391 package.html
+07/10/2019  04:14 PM             2,152 package.properties
+07/10/2019  04:14 PM             3,293 package_bg.properties
+07/10/2019  04:14 PM             1,991 package_cs.properties
+07/10/2019  04:14 PM             1,929 package_de.properties
+07/10/2019  04:14 PM             3,984 package_el.properties
+07/10/2019  04:14 PM             1,889 package_es.properties
+07/10/2019  04:14 PM             1,902 package_fr.properties
+07/10/2019  04:14 PM             1,962 package_hu.properties
+07/10/2019  04:14 PM             1,880 package_it.properties
+07/10/2019  04:14 PM             2,636 package_ja.properties
+07/10/2019  04:14 PM             1,907 package_nl.properties
+07/10/2019  04:14 PM             1,973 package_pl.properties
+07/10/2019  04:14 PM             1,813 package_pt.properties
+07/10/2019  04:14 PM             4,161 package_ru.properties
+07/10/2019  04:14 PM             1,827 package_sv.properties
+07/10/2019  04:14 PM             2,091 package_vi.properties
+07/10/2019  04:14 PM             2,228 package_zh_CN.properties
+07/10/2019  04:14 PM             1,936 package_zh_TW.properties
+07/10/2019  04:14 PM    <DIR>          plugin
+07/10/2019  04:14 PM    <DIR>          resources
+07/10/2019  04:14 PM            47,721 SweetHome3D.java
+07/10/2019  04:14 PM            10,367 SweetHome3DBootstrap.java
+07/10/2019  04:14 PM    <DIR>          swing
+07/10/2019  04:14 PM    <DIR>          tools
+07/10/2019  04:14 PM    <DIR>          viewcontroller
+              24 File(s)        162,914 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\applet
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            37,205 AppletApplication.java
+07/10/2019  04:14 PM            13,395 AppletContentManager.java
+07/10/2019  04:14 PM            26,863 AppletUserPreferences.java
+07/10/2019  04:14 PM            15,299 HomeAppletController.java
+07/10/2019  04:14 PM            12,927 HomeAppletRecorder.java
+07/10/2019  04:14 PM             1,036 package.html
+07/10/2019  04:14 PM             5,900 package.properties
+07/10/2019  04:14 PM             8,512 package_bg.properties
+07/10/2019  04:14 PM             2,245 package_cs.properties
+07/10/2019  04:14 PM             4,117 package_de.properties
+07/10/2019  04:14 PM             9,302 package_el.properties
+07/10/2019  04:14 PM             4,051 package_es.properties
+07/10/2019  04:14 PM             5,850 package_fr.properties
+07/10/2019  04:14 PM             4,208 package_hu.properties
+07/10/2019  04:14 PM             4,009 package_it.properties
+07/10/2019  04:14 PM             5,943 package_ja.properties
+07/10/2019  04:14 PM             5,529 package_nl.properties
+07/10/2019  04:14 PM             4,152 package_pl.properties
+07/10/2019  04:14 PM             3,726 package_pt.properties
+07/10/2019  04:14 PM            13,465 package_ru.properties
+07/10/2019  04:14 PM             3,916 package_sv.properties
+07/10/2019  04:14 PM             4,713 package_vi.properties
+07/10/2019  04:14 PM             4,763 package_zh_CN.properties
+07/10/2019  04:14 PM             4,136 package_zh_TW.properties
+07/10/2019  04:14 PM    <DIR>          resources
+07/10/2019  04:14 PM            23,473 SweetHome3DApplet.java
+07/10/2019  04:14 PM            10,122 SweetHome3DViewer.java
+07/10/2019  04:14 PM            18,216 ViewerHelper.java
+              27 File(s)        257,073 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\applet\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               564 document-export-sh3d.png
+07/10/2019  04:14 PM               561 document-import-sh3d.png
+               2 File(s)          1,125 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            14,392 AutoRecoveryManager.java
+07/10/2019  04:14 PM            53,780 Base64.java
+07/10/2019  04:14 PM            18,231 ContentDigestManager.java
+07/10/2019  04:14 PM             1,737 ContentRecording.java
+07/10/2019  04:14 PM             1,449 ContributedFurnitureCatalog.properties
+07/10/2019  04:14 PM             1,936 DamagedHomeIOException.java
+07/10/2019  04:14 PM            50,501 DefaultFurnitureCatalog.java
+07/10/2019  04:14 PM            42,793 DefaultFurnitureCatalog.properties
+07/10/2019  04:14 PM            16,743 DefaultFurnitureCatalog_bg.properties
+07/10/2019  04:14 PM             7,992 DefaultFurnitureCatalog_cs.properties
+07/10/2019  04:14 PM             6,405 DefaultFurnitureCatalog_de.properties
+07/10/2019  04:14 PM            17,712 DefaultFurnitureCatalog_el.properties
+07/10/2019  04:14 PM             4,561 DefaultFurnitureCatalog_en_US.properties
+07/10/2019  04:14 PM             6,270 DefaultFurnitureCatalog_es.properties
+07/10/2019  04:14 PM             8,366 DefaultFurnitureCatalog_fr.properties
+07/10/2019  04:14 PM             7,360 DefaultFurnitureCatalog_hu.properties
+07/10/2019  04:14 PM             6,327 DefaultFurnitureCatalog_it.properties
+07/10/2019  04:14 PM             9,352 DefaultFurnitureCatalog_ja.properties
+07/10/2019  04:14 PM             6,518 DefaultFurnitureCatalog_nl.properties
+07/10/2019  04:14 PM             7,177 DefaultFurnitureCatalog_pl.properties
+07/10/2019  04:14 PM             6,775 DefaultFurnitureCatalog_pt.properties
+07/10/2019  04:14 PM            16,395 DefaultFurnitureCatalog_ru.properties
+07/10/2019  04:14 PM             6,231 DefaultFurnitureCatalog_sv.properties
+07/10/2019  04:14 PM             8,916 DefaultFurnitureCatalog_vi.properties
+07/10/2019  04:14 PM             7,895 DefaultFurnitureCatalog_zh_CN.properties
+07/10/2019  04:14 PM             8,145 DefaultFurnitureCatalog_zh_TW.properties
+07/10/2019  04:14 PM            22,715 DefaultHomeInputStream.java
+07/10/2019  04:14 PM            20,611 DefaultHomeOutputStream.java
+07/10/2019  04:14 PM             4,123 DefaultLibrary.java
+07/10/2019  04:14 PM             2,857 DefaultPatternTexture.java
+07/10/2019  04:14 PM            18,998 DefaultTexturesCatalog.java
+07/10/2019  04:14 PM             5,427 DefaultTexturesCatalog.properties
+07/10/2019  04:14 PM             3,711 DefaultTexturesCatalog_bg.properties
+07/10/2019  04:14 PM             2,362 DefaultTexturesCatalog_cs.properties
+07/10/2019  04:14 PM             1,965 DefaultTexturesCatalog_de.properties
+07/10/2019  04:14 PM             4,288 DefaultTexturesCatalog_el.properties
+07/10/2019  04:14 PM             1,950 DefaultTexturesCatalog_es.properties
+07/10/2019  04:14 PM             1,821 DefaultTexturesCatalog_fr.properties
+07/10/2019  04:14 PM             2,140 DefaultTexturesCatalog_hu.properties
+07/10/2019  04:14 PM             1,974 DefaultTexturesCatalog_it.properties
+07/10/2019  04:14 PM             2,402 DefaultTexturesCatalog_ja.properties
+07/10/2019  04:14 PM             1,964 DefaultTexturesCatalog_nl.properties
+07/10/2019  04:14 PM             2,165 DefaultTexturesCatalog_pl.properties
+07/10/2019  04:14 PM             1,890 DefaultTexturesCatalog_pt.properties
+07/10/2019  04:14 PM             3,719 DefaultTexturesCatalog_ru.properties
+07/10/2019  04:14 PM             1,889 DefaultTexturesCatalog_sv.properties
+07/10/2019  04:14 PM             2,444 DefaultTexturesCatalog_vi.properties
+07/10/2019  04:14 PM             2,386 DefaultTexturesCatalog_zh_CN.properties
+07/10/2019  04:14 PM             2,306 DefaultTexturesCatalog_zh_TW.properties
+07/10/2019  04:14 PM            11,918 DefaultUserPreferences.java
+07/10/2019  04:14 PM             4,435 DefaultUserPreferences.properties
+07/10/2019  04:14 PM             1,333 DefaultUserPreferences_bg.properties
+07/10/2019  04:14 PM             1,469 DefaultUserPreferences_cs.properties
+07/10/2019  04:14 PM             1,619 DefaultUserPreferences_de.properties
+07/10/2019  04:14 PM             2,856 DefaultUserPreferences_el.properties
+07/10/2019  04:14 PM               959 DefaultUserPreferences_en_US.properties
+07/10/2019  04:14 PM             1,454 DefaultUserPreferences_es.properties
+07/10/2019  04:14 PM             1,385 DefaultUserPreferences_fr.properties
+07/10/2019  04:14 PM             1,394 DefaultUserPreferences_hu.properties
+07/10/2019  04:14 PM             1,451 DefaultUserPreferences_it.properties
+07/10/2019  04:14 PM             1,499 DefaultUserPreferences_ja.properties
+07/10/2019  04:14 PM             1,462 DefaultUserPreferences_nl.properties
+07/10/2019  04:14 PM             1,476 DefaultUserPreferences_pl.properties
+07/10/2019  04:14 PM             1,403 DefaultUserPreferences_pt.properties
+07/10/2019  04:14 PM             2,702 DefaultUserPreferences_ru.properties
+07/10/2019  04:14 PM             1,475 DefaultUserPreferences_sv.properties
+07/10/2019  04:14 PM             1,581 DefaultUserPreferences_vi.properties
+07/10/2019  04:14 PM             1,713 DefaultUserPreferences_zh_CN.properties
+07/10/2019  04:14 PM             1,659 DefaultUserPreferences_zh_TW.properties
+07/10/2019  04:14 PM            77,470 FileUserPreferences.java
+07/10/2019  04:14 PM             9,990 HomeContentContext.java
+07/10/2019  04:14 PM            15,223 HomeFileRecorder.java
+07/10/2019  04:14 PM             1,122 HomeURLContent.java
+07/10/2019  04:14 PM            41,992 HomeXMLExporter.java
+07/10/2019  04:14 PM            76,914 HomeXMLHandler.java
+07/10/2019  04:14 PM             2,470 ObjectXMLExporter.java
+07/10/2019  04:14 PM             1,478 package.html
+07/10/2019  04:14 PM    <DIR>          resources
+07/10/2019  04:14 PM             2,051 URLContentClassLoader.java
+07/10/2019  04:14 PM             7,982 XMLWriter.java
+              79 File(s)        742,001 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            22,044 aquarium.obj
+07/10/2019  04:14 PM             7,766 aquarium.png
+07/10/2019  04:14 PM           104,093 armchair.obj
+07/10/2019  04:14 PM            11,375 armchair.png
+07/10/2019  04:14 PM            33,509 armchair2.obj
+07/10/2019  04:14 PM             6,488 armchair2.png
+07/10/2019  04:14 PM           139,580 bath.obj
+07/10/2019  04:14 PM             6,392 bath.png
+07/10/2019  04:14 PM            24,868 bed.obj
+07/10/2019  04:14 PM             7,542 bed.png
+07/10/2019  04:14 PM            11,797 bed140x190.obj
+07/10/2019  04:14 PM             7,568 bed140x190.png
+07/10/2019  04:14 PM            11,692 bed90x190.obj
+07/10/2019  04:14 PM             7,755 bed90x190.png
+07/10/2019  04:14 PM             2,243 bedsideTable.obj
+07/10/2019  04:14 PM             9,974 bedsideTable.png
+07/10/2019  04:14 PM            47,958 blind.obj
+07/10/2019  04:14 PM            14,931 blind.png
+07/10/2019  04:14 PM            12,375 blueLightSource.png
+07/10/2019  04:14 PM             3,516 bookcase.obj
+07/10/2019  04:14 PM             7,957 bookcase.png
+07/10/2019  04:14 PM             5,463 box.png
+07/10/2019  04:14 PM            19,590 bunkBed90x190.obj
+07/10/2019  04:14 PM            17,838 bunkBed90x190.png
+07/10/2019  04:14 PM             3,025 chair.obj
+07/10/2019  04:14 PM             5,737 chair.png
+07/10/2019  04:14 PM            16,429 chair2.obj
+07/10/2019  04:14 PM             7,511 chair2.png
+07/10/2019  04:14 PM            52,875 chest.obj
+07/10/2019  04:14 PM             7,791 chest.png
+07/10/2019  04:14 PM            24,815 clothesWasher.obj
+07/10/2019  04:14 PM             7,607 clothesWasher.png
+07/10/2019  04:14 PM             9,814 coffeeTable.obj
+07/10/2019  04:14 PM             3,594 coffeeTable.png
+07/10/2019  04:14 PM            42,013 cooker.obj
+07/10/2019  04:14 PM             7,791 cooker.png
+07/10/2019  04:14 PM            24,469 cornerBunkBed90x190.obj
+07/10/2019  04:14 PM            11,061 cornerBunkBed90x190.png
+07/10/2019  04:14 PM           364,199 cornerSofa.obj
+07/10/2019  04:14 PM             9,452 cornerSofa.png
+07/10/2019  04:14 PM            34,501 crib.obj
+07/10/2019  04:14 PM            11,944 crib.png
+07/10/2019  04:14 PM    <DIR>          curtains
+07/10/2019  04:14 PM             5,112 curtains.png
+07/10/2019  04:14 PM            14,116 curveStaircase.obj
+07/10/2019  04:14 PM             8,084 curveStaircase.png
+07/10/2019  04:14 PM             6,366 cylinder.png
+07/10/2019  04:14 PM            16,760 desk.obj
+07/10/2019  04:14 PM             6,034 desk.png
+07/10/2019  04:14 PM             7,169 dishwasher.obj
+07/10/2019  04:14 PM             6,196 dishwasher.png
+07/10/2019  04:14 PM            14,086 door.obj
+07/10/2019  04:14 PM             4,083 door.png
+07/10/2019  04:14 PM             1,281 doorFrame.obj
+07/10/2019  04:14 PM             6,555 doorFrame.png
+07/10/2019  04:14 PM            13,346 doubleFrenchWindow126x200.obj
+07/10/2019  04:14 PM             3,875 doubleFrenchWindow126x200.png
+07/10/2019  04:14 PM             3,457 doubleHungWindow80x122.obj
+07/10/2019  04:14 PM             3,386 doubleHungWindow80x122.png
+07/10/2019  04:14 PM            26,300 doubleOutwardOpeningWindow.obj
+07/10/2019  04:14 PM             3,659 doubleOutwardOpeningWindow.png
+07/10/2019  04:14 PM            13,503 doubleWindow126x123.obj
+07/10/2019  04:14 PM             4,112 doubleWindow126x123.png
+07/10/2019  04:14 PM            13,650 doubleWindow126x163.obj
+07/10/2019  04:14 PM             3,832 doubleWindow126x163.png
+07/10/2019  04:14 PM            22,106 dresser.obj
+07/10/2019  04:14 PM             6,042 dresser.png
+07/10/2019  04:14 PM             7,415 electricRadiator.obj
+07/10/2019  04:14 PM             4,924 electricRadiator.png
+07/10/2019  04:14 PM    <DIR>          examples
+07/10/2019  04:14 PM            50,961 filledBookcase.obj
+07/10/2019  04:14 PM            10,397 filledBookcase.png
+07/10/2019  04:14 PM            12,413 fireglowLightSource.png
+07/10/2019  04:14 PM            14,508 fireplace.obj
+07/10/2019  04:14 PM             5,420 fireplace.png
+07/10/2019  04:14 PM            87,663 fittedBath.obj
+07/10/2019  04:14 PM             6,545 fittedBath.png
+07/10/2019  04:14 PM             2,618 fixedTriangleWindow85x85.obj
+07/10/2019  04:14 PM             4,524 fixedTriangleWindow85x85.png
+07/10/2019  04:14 PM             2,198 fixedWindow85x123.obj
+07/10/2019  04:14 PM             1,884 fixedWindow85x123.png
+07/10/2019  04:14 PM            13,041 flatTV.obj
+07/10/2019  04:14 PM             3,346 flatTV.png
+07/10/2019  04:14 PM            19,627 floorUplight.obj
+07/10/2019  04:14 PM             2,914 floorUplight.png
+07/10/2019  04:14 PM           185,791 flowers.obj
+07/10/2019  04:14 PM            12,353 flowers.png
+07/10/2019  04:14 PM    <DIR>          frame
+07/10/2019  04:14 PM             3,118 frame.png
+07/10/2019  04:14 PM             9,824 frenchWindow85x200.obj
+07/10/2019  04:14 PM             3,250 frenchWindow85x200.png
+07/10/2019  04:14 PM            13,397 fridge.obj
+07/10/2019  04:14 PM             6,971 fridge.png
+07/10/2019  04:14 PM            26,363 fridgeFreezer.obj
+07/10/2019  04:14 PM             5,145 fridgeFreezer.png
+07/10/2019  04:14 PM            24,179 frontDoor.obj
+07/10/2019  04:14 PM             3,021 frontDoor.png
+07/10/2019  04:14 PM            10,637 garageDoor.obj
+07/10/2019  04:14 PM             3,557 garageDoor.png
+07/10/2019  04:14 PM            44,252 glassDoorCabinet.obj
+07/10/2019  04:14 PM             8,177 glassDoorCabinet.png
+07/10/2019  04:14 PM            12,961 greenLightSource.png
+07/10/2019  04:14 PM             8,190 halfRoundWindow.obj
+07/10/2019  04:14 PM             6,896 halfRoundWindow.png
+07/10/2019  04:14 PM            10,951 halogenLightSource.png
+07/10/2019  04:14 PM            10,536 hood.obj
+07/10/2019  04:14 PM             3,182 hood.png
+07/10/2019  04:14 PM           336,022 hotWaterRadiator.obj
+07/10/2019  04:14 PM             8,539 hotWaterRadiator.png
+07/10/2019  04:14 PM             9,451 incandescentLightSource.png
+07/10/2019  04:14 PM            11,366 kitchenCabinet.obj
+07/10/2019  04:14 PM             5,968 kitchenCabinet.png
+07/10/2019  04:14 PM            11,850 kitchenUpperCabinet.obj
+07/10/2019  04:14 PM             4,471 kitchenUpperCabinet.png
+07/10/2019  04:14 PM            21,749 lamp.obj
+07/10/2019  04:14 PM             8,109 lamp.png
+07/10/2019  04:14 PM            45,826 laptop.obj
+07/10/2019  04:14 PM             8,827 laptop.png
+07/10/2019  04:14 PM             1,286 lightSource.obj
+07/10/2019  04:14 PM            10,228 lightSource.png
+07/10/2019  04:14 PM            11,427 lightSourcePlanIcon.png
+07/10/2019  04:14 PM            14,640 loftBed140x190.obj
+07/10/2019  04:14 PM            12,847 loftBed140x190.png
+07/10/2019  04:14 PM            12,003 magentaLightSource.png
+07/10/2019  04:14 PM    <DIR>          mannequin
+07/10/2019  04:14 PM             6,417 mannequin.png
+07/10/2019  04:14 PM            14,055 openDoor.obj
+07/10/2019  04:14 PM             4,862 openDoor.png
+07/10/2019  04:14 PM            30,619 oven.obj
+07/10/2019  04:14 PM             5,202 oven.png
+07/10/2019  04:14 PM    <DIR>          patterns
+07/10/2019  04:14 PM            15,723 pendantLamp.obj
+07/10/2019  04:14 PM             2,858 pendantLamp.png
+07/10/2019  04:14 PM            29,003 piano.obj
+07/10/2019  04:14 PM             3,786 piano.png
+07/10/2019  04:14 PM           113,183 plant.obj
+07/10/2019  04:14 PM            11,395 plant.png
+07/10/2019  04:14 PM             6,781 railing.obj
+07/10/2019  04:14 PM             6,319 railing.png
+07/10/2019  04:14 PM            12,841 redLightSource.png
+07/10/2019  04:14 PM             8,848 roundDoorFrame.obj
+07/10/2019  04:14 PM             3,382 roundDoorFrame.png
+07/10/2019  04:14 PM            42,916 roundedDoor.obj
+07/10/2019  04:14 PM             2,314 roundedDoor.png
+07/10/2019  04:14 PM             8,110 roundTable.obj
+07/10/2019  04:14 PM             4,967 roundTable.png
+07/10/2019  04:14 PM            16,819 roundWindow.obj
+07/10/2019  04:14 PM             7,814 roundWindow.png
+07/10/2019  04:14 PM             2,316 serviceHatch.obj
+07/10/2019  04:14 PM             1,165 serviceHatch.png
+07/10/2019  04:14 PM            21,504 shower.obj
+07/10/2019  04:14 PM             3,084 shower.png
+07/10/2019  04:14 PM            41,849 sink.obj
+07/10/2019  04:14 PM             8,124 sink.png
+07/10/2019  04:14 PM             7,950 sliderWindow126x200.obj
+07/10/2019  04:14 PM             3,556 sliderWindow126x200.png
+07/10/2019  04:14 PM             6,835 slidingDoors.obj
+07/10/2019  04:14 PM             5,997 slidingDoors.png
+07/10/2019  04:14 PM           148,511 sofa.obj
+07/10/2019  04:14 PM             9,065 sofa.png
+07/10/2019  04:14 PM            55,383 sofa2.obj
+07/10/2019  04:14 PM             5,453 sofa2.png
+07/10/2019  04:14 PM            36,584 spiralStaircase.obj
+07/10/2019  04:14 PM             8,470 spiralStaircase.png
+07/10/2019  04:14 PM             9,300 spotlight.obj
+07/10/2019  04:14 PM             4,844 spotlight.png
+07/10/2019  04:14 PM             3,045 squareTable.obj
+07/10/2019  04:14 PM             6,606 squareTable.png
+07/10/2019  04:14 PM            13,868 staircase.obj
+07/10/2019  04:14 PM             8,293 staircase.png
+07/10/2019  04:14 PM            19,756 stool.obj
+07/10/2019  04:14 PM             5,626 stool.png
+07/10/2019  04:14 PM             5,486 table.obj
+07/10/2019  04:14 PM             5,673 table.png
+07/10/2019  04:14 PM    <DIR>          texturableBox
+07/10/2019  04:14 PM    <DIR>          texturableCylinder
+07/10/2019  04:14 PM    <DIR>          texturableTriangle
+07/10/2019  04:14 PM    <DIR>          textures
+07/10/2019  04:14 PM           125,874 toiletUnit.obj
+07/10/2019  04:14 PM             6,421 toiletUnit.png
+07/10/2019  04:14 PM             4,155 triangle.png
+07/10/2019  04:14 PM             9,569 tvUnit.obj
+07/10/2019  04:14 PM             5,536 tvUnit.png
+07/10/2019  04:14 PM             5,211 wallUplight.obj
+07/10/2019  04:14 PM             6,792 wallUplight.png
+07/10/2019  04:14 PM            23,218 wardrobe.obj
+07/10/2019  04:14 PM             6,089 wardrobe.png
+07/10/2019  04:14 PM           239,991 washbasin.obj
+07/10/2019  04:14 PM             5,603 washbasin.png
+07/10/2019  04:14 PM            66,142 washbasinWithCabinet.obj
+07/10/2019  04:14 PM             5,193 washbasinWithCabinet.png
+07/10/2019  04:14 PM             9,333 window85x123.obj
+07/10/2019  04:14 PM             2,965 window85x123.png
+07/10/2019  04:14 PM             8,910 window85x163.obj
+07/10/2019  04:14 PM             4,111 window85x163.png
+07/10/2019  04:14 PM            26,784 workLamp.obj
+07/10/2019  04:14 PM             6,750 workLamp.png
+             188 File(s)      3,975,014 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\curtains
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               759 curtains.mtl
+07/10/2019  04:14 PM            37,938 curtains.obj
+               2 File(s)         38,697 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\examples
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            29,884 1BedroomApartmentWithRoundWall.png
+07/10/2019  04:14 PM            54,756 1BedroomApartmentWithRoundWall.xml
+07/10/2019  04:14 PM            26,971 2BedroomApartment.png
+07/10/2019  04:14 PM            59,132 2BedroomApartment.xml
+07/10/2019  04:14 PM            30,298 2BedroomApartmentWithBowWindow.png
+07/10/2019  04:14 PM            83,752 2BedroomApartmentWithBowWindow.xml
+07/10/2019  04:14 PM            16,477 2BedroomHouseWithBasement.png
+07/10/2019  04:14 PM            92,629 2BedroomHouseWithBasement.xml
+07/10/2019  04:14 PM            25,234 3BedroomApartment.png
+07/10/2019  04:14 PM            72,330 3BedroomApartment.xml
+07/10/2019  04:14 PM            17,106 3BedroomHouseWithAttic.png
+07/10/2019  04:14 PM            89,054 3BedroomHouseWithAttic.xml
+07/10/2019  04:14 PM            16,940 3BedroomHouseWithMezzanine.png
+07/10/2019  04:14 PM           115,631 3BedroomHouseWithMezzanine.xml
+07/10/2019  04:14 PM            14,126 4BedroomHouse.png
+07/10/2019  04:14 PM            89,767 4BedroomHouse.xml
+07/10/2019  04:14 PM            17,182 Studio.png
+07/10/2019  04:14 PM            30,237 Studio.xml
+              18 File(s)        881,506 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\frame
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               734 frame.mtl
+07/10/2019  04:14 PM             2,421 frame.obj
+               2 File(s)          3,155 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\mannequin
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             3,918 mannequin.mtl
+07/10/2019  04:14 PM           129,105 mannequin.obj
+               2 File(s)        133,023 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\patterns
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               139 background.png
+07/10/2019  04:14 PM               172 crossHatch.png
+07/10/2019  04:14 PM               126 foreground.png
+07/10/2019  04:14 PM               165 hatchDown.png
+07/10/2019  04:14 PM               165 hatchUp.png
+07/10/2019  04:14 PM               156 reversedCrossHatch.png
+07/10/2019  04:14 PM               143 reversedHatchDown.png
+07/10/2019  04:14 PM               164 reversedHatchUp.png
+               8 File(s)          1,230 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\texturableBox
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               883 texturableBox.mtl
+07/10/2019  04:14 PM               778 texturableBox.obj
+               2 File(s)          1,661 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\texturableCylinder
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               668 texturableCylinder.mtl
+07/10/2019  04:14 PM             5,932 texturableCylinder.obj
+               2 File(s)          6,600 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\texturableTriangle
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               815 texturableTriangle.mtl
+07/10/2019  04:14 PM               729 texturableTriangle.obj
+               2 File(s)          1,544 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\io\resources\textures
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             9,144 beigeTile.jpg
+07/10/2019  04:14 PM            19,527 blackAndWhiteTiles.jpg
+07/10/2019  04:14 PM            27,915 blueSky.jpg
+07/10/2019  04:14 PM            25,299 blueTiles.jpg
+07/10/2019  04:14 PM            22,627 boxTree.jpg
+07/10/2019  04:14 PM            38,090 cloudy.jpg
+07/10/2019  04:14 PM            15,677 darkBlueTile.jpg
+07/10/2019  04:14 PM            32,277 grass.jpg
+07/10/2019  04:14 PM            18,916 greyTile.jpg
+07/10/2019  04:14 PM            11,664 lightBlueTile.jpg
+07/10/2019  04:14 PM            22,939 marbleWall.jpg
+07/10/2019  04:14 PM            18,916 oldWoodenFloor.jpg
+07/10/2019  04:14 PM            16,968 pavingStone.jpg
+07/10/2019  04:14 PM            28,075 pebbles.jpg
+07/10/2019  04:14 PM            17,702 redTiles.jpg
+07/10/2019  04:14 PM            17,005 roughcast.jpg
+07/10/2019  04:14 PM             6,549 smallBricks.jpg
+07/10/2019  04:14 PM             6,350 smallRedBricks.jpg
+07/10/2019  04:14 PM             7,532 smallWhiteBricks.jpg
+07/10/2019  04:14 PM             9,576 stone2Wall.jpg
+07/10/2019  04:14 PM             5,961 stone3Wall.jpg
+07/10/2019  04:14 PM            10,424 stoneTiles.jpg
+07/10/2019  04:14 PM            14,140 stoneWall.jpg
+07/10/2019  04:14 PM            46,631 veryCloudy.jpg
+07/10/2019  04:14 PM             9,669 wallBeigeTile.jpg
+07/10/2019  04:14 PM            11,413 woodenFloor.jpg
+              26 File(s)        470,986 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\j3d
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            20,519 Component3DManager.java
+07/10/2019  04:14 PM            48,987 DAELoader.java
+07/10/2019  04:14 PM            25,308 Ground3D.java
+07/10/2019  04:14 PM            53,895 HomePieceOfFurniture3D.java
+07/10/2019  04:14 PM            11,741 Label3D.java
+07/10/2019  04:14 PM            58,722 Max3DSLoader.java
+07/10/2019  04:14 PM            98,898 ModelManager.java
+07/10/2019  04:14 PM            17,960 Object3DBranch.java
+07/10/2019  04:14 PM             2,642 Object3DBranchFactory.java
+07/10/2019  04:14 PM            63,819 OBJLoader.java
+07/10/2019  04:14 PM             3,617 OBJMaterial.java
+07/10/2019  04:14 PM            80,488 OBJWriter.java
+07/10/2019  04:14 PM             1,026 package.html
+07/10/2019  04:14 PM            83,259 PhotoRenderer.java
+07/10/2019  04:14 PM             2,967 PhotoRenderer.properties
+07/10/2019  04:14 PM             8,850 Polyline3D.java
+07/10/2019  04:14 PM            36,677 Room3D.java
+07/10/2019  04:14 PM             6,318 ShapeTools.java
+07/10/2019  04:14 PM            21,604 TextureManager.java
+07/10/2019  04:14 PM            72,949 Wall3D.java
+              20 File(s)        720,246 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\model
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             1,387 AspectRatio.java
+07/10/2019  04:14 PM             5,134 BackgroundImage.java
+07/10/2019  04:14 PM             4,398 Baseboard.java
+07/10/2019  04:14 PM            10,581 Camera.java
+07/10/2019  04:14 PM            40,099 CatalogDoorOrWindow.java
+07/10/2019  04:14 PM             1,282 CatalogItem.java
+07/10/2019  04:14 PM            27,122 CatalogLight.java
+07/10/2019  04:14 PM            53,959 CatalogPieceOfFurniture.java
+07/10/2019  04:14 PM             9,936 CatalogTexture.java
+07/10/2019  04:14 PM             3,510 CollectionChangeSupport.java
+07/10/2019  04:14 PM             2,570 CollectionEvent.java
+07/10/2019  04:14 PM             1,289 CollectionListener.java
+07/10/2019  04:14 PM            76,811 Compass.java
+07/10/2019  04:14 PM             1,242 Content.java
+07/10/2019  04:14 PM             2,397 DamagedHomeRecorderException.java
+07/10/2019  04:14 PM            13,295 DimensionLine.java
+07/10/2019  04:14 PM             2,797 DoorOrWindow.java
+07/10/2019  04:14 PM             1,229 Elevatable.java
+07/10/2019  04:14 PM             4,642 FurnitureCatalog.java
+07/10/2019  04:14 PM             3,935 FurnitureCategory.java
+07/10/2019  04:14 PM            77,202 Home.java
+07/10/2019  04:14 PM             4,708 HomeApplication.java
+07/10/2019  04:14 PM             1,760 HomeDescriptor.java
+07/10/2019  04:14 PM             9,522 HomeDoorOrWindow.java
+07/10/2019  04:14 PM            22,050 HomeEnvironment.java
+07/10/2019  04:14 PM            35,147 HomeFurnitureGroup.java
+07/10/2019  04:14 PM             4,256 HomeLight.java
+07/10/2019  04:14 PM             4,598 HomeMaterial.java
+07/10/2019  04:14 PM             3,494 HomeObject.java
+07/10/2019  04:14 PM            58,318 HomePieceOfFurniture.java
+07/10/2019  04:14 PM             4,914 HomePrint.java
+07/10/2019  04:14 PM             1,897 HomeRecorder.java
+07/10/2019  04:14 PM             7,841 HomeTexture.java
+07/10/2019  04:14 PM             1,372 IllegalHomonymException.java
+07/10/2019  04:14 PM             1,447 InterruptedRecorderException.java
+07/10/2019  04:14 PM            11,427 Label.java
+07/10/2019  04:14 PM            28,439 LengthUnit.java
+07/10/2019  04:14 PM             1,316 LengthUnit.properties
+07/10/2019  04:14 PM             1,122 LengthUnit_ar.properties
+07/10/2019  04:14 PM             1,027 LengthUnit_bg.properties
+07/10/2019  04:14 PM               922 LengthUnit_cs.properties
+07/10/2019  04:14 PM               903 LengthUnit_de.properties
+07/10/2019  04:14 PM             1,086 LengthUnit_el.properties
+07/10/2019  04:14 PM               919 LengthUnit_es.properties
+07/10/2019  04:14 PM               973 LengthUnit_fi.properties
+07/10/2019  04:14 PM               864 LengthUnit_fr.properties
+07/10/2019  04:14 PM               910 LengthUnit_hu.properties
+07/10/2019  04:14 PM             1,042 LengthUnit_in.properties
+07/10/2019  04:14 PM               907 LengthUnit_it.properties
+07/10/2019  04:14 PM             1,025 LengthUnit_ja.properties
+07/10/2019  04:14 PM               977 LengthUnit_nl.properties
+07/10/2019  04:14 PM               902 LengthUnit_pl.properties
+07/10/2019  04:14 PM               904 LengthUnit_pt.properties
+07/10/2019  04:14 PM               991 LengthUnit_pt_PT.properties
+07/10/2019  04:14 PM               994 LengthUnit_ru.properties
+07/10/2019  04:14 PM             1,057 LengthUnit_sl.properties
+07/10/2019  04:14 PM               981 LengthUnit_sr.properties
+07/10/2019  04:14 PM               940 LengthUnit_sv.properties
+07/10/2019  04:14 PM             1,062 LengthUnit_tr.properties
+07/10/2019  04:14 PM             1,102 LengthUnit_uk.properties
+07/10/2019  04:14 PM               952 LengthUnit_vi.properties
+07/10/2019  04:14 PM             1,116 LengthUnit_zh_CN.properties
+07/10/2019  04:14 PM             1,123 LengthUnit_zh_TW.properties
+07/10/2019  04:14 PM             8,336 Level.java
+07/10/2019  04:14 PM             1,715 Library.java
+07/10/2019  04:14 PM             1,297 Light.java
+07/10/2019  04:14 PM             2,227 LightSource.java
+07/10/2019  04:14 PM             1,401 NotEnoughSpaceRecorderException.java
+07/10/2019  04:14 PM             9,408 ObserverCamera.java
+07/10/2019  04:14 PM             1,571 package.html
+07/10/2019  04:14 PM             2,223 PatternsCatalog.java
+07/10/2019  04:14 PM             5,354 PieceOfFurniture.java
+07/10/2019  04:14 PM            27,049 Polyline.java
+07/10/2019  04:14 PM             1,579 RecorderException.java
+07/10/2019  04:14 PM            27,697 Room.java
+07/10/2019  04:14 PM             2,635 Sash.java
+07/10/2019  04:14 PM             2,025 Selectable.java
+07/10/2019  04:14 PM             1,504 SelectionEvent.java
+07/10/2019  04:14 PM             1,206 SelectionListener.java
+07/10/2019  04:14 PM               982 SupportedLanguages.properties
+07/10/2019  04:14 PM             6,895 TextStyle.java
+07/10/2019  04:14 PM             1,537 TextureImage.java
+07/10/2019  04:14 PM             4,534 TexturesCatalog.java
+07/10/2019  04:14 PM             3,789 TexturesCategory.java
+07/10/2019  04:14 PM             2,864 Transformation.java
+07/10/2019  04:14 PM            47,812 UserPreferences.java
+07/10/2019  04:14 PM            49,911 Wall.java
+              87 File(s)        787,675 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\plugin
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             3,614 HomePluginController.java
+07/10/2019  04:14 PM             1,486 package.html
+07/10/2019  04:14 PM             7,490 Plugin.java
+07/10/2019  04:14 PM             9,338 PluginAction.java
+07/10/2019  04:14 PM            19,780 PluginManager.java
+               5 File(s)         41,708 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               958 frameIcon.png
+07/10/2019  04:14 PM             7,306 frameIcon128x128.png
+07/10/2019  04:14 PM             2,604 frameIcon32x32.png
+07/10/2019  04:14 PM            36,687 splashScreen.jpg
+               4 File(s)         47,555 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            18,295 AutoCommitSpinner.java
+07/10/2019  04:14 PM             4,011 AutoCompleteDocument.java
+07/10/2019  04:14 PM             1,929 AutoCompleteTextField.java
+07/10/2019  04:14 PM            50,319 BackgroundImageWizardStepsPanel.java
+07/10/2019  04:14 PM            16,397 BaseboardChoiceComponent.java
+07/10/2019  04:14 PM            10,474 CatalogItemToolTip.java
+07/10/2019  04:14 PM            51,810 ColorButton.java
+07/10/2019  04:14 PM            25,757 CompassPanel.java
+07/10/2019  04:14 PM             8,014 ControllerAction.java
+07/10/2019  04:14 PM            49,420 FileContentManager.java
+07/10/2019  04:14 PM             4,687 FontNameComboBox.java
+07/10/2019  04:14 PM            35,916 FurnitureCatalogListPanel.java
+07/10/2019  04:14 PM             6,115 FurnitureCatalogTransferHandler.java
+07/10/2019  04:14 PM            24,564 FurnitureCatalogTree.java
+07/10/2019  04:14 PM           111,264 FurnitureTable.java
+07/10/2019  04:14 PM            21,403 FurnitureTablePanel.java
+07/10/2019  04:14 PM             6,906 FurnitureTransferHandler.java
+07/10/2019  04:14 PM            24,265 HelpPane.java
+07/10/2019  04:14 PM            20,666 Home3DAttributesPanel.java
+07/10/2019  04:14 PM           144,780 HomeComponent3D.java
+07/10/2019  04:14 PM             1,275 HomeComponent3D.properties
+07/10/2019  04:14 PM            88,476 HomeFurniturePanel.java
+07/10/2019  04:14 PM           252,688 HomePane.java
+07/10/2019  04:14 PM             4,811 HomePDFPrinter.java
+07/10/2019  04:14 PM               907 HomePDFPrinter.properties
+07/10/2019  04:14 PM            20,907 HomePrintableComponent.java
+07/10/2019  04:14 PM             2,766 HomeTransferableList.java
+07/10/2019  04:14 PM             9,282 IconManager.java
+07/10/2019  04:14 PM            88,277 ImportedFurnitureWizardStepsPanel.java
+07/10/2019  04:14 PM            41,414 ImportedTextureWizardStepsPanel.java
+07/10/2019  04:14 PM             1,379 InterruptedPrinterException.java
+07/10/2019  04:14 PM             7,857 JPEGImagesToVideo.java
+07/10/2019  04:14 PM            25,935 LabelPanel.java
+07/10/2019  04:14 PM            26,840 LevelPanel.java
+07/10/2019  04:14 PM             8,992 LocatedTransferHandler.java
+07/10/2019  04:14 PM            38,491 ModelMaterialsComponent.java
+07/10/2019  04:14 PM            56,909 ModelPreviewComponent.java
+07/10/2019  04:14 PM            33,509 MultipleLevelsPlanPanel.java
+07/10/2019  04:14 PM             7,028 NullableCheckBox.java
+07/10/2019  04:14 PM            15,527 NullableSpinner.java
+07/10/2019  04:14 PM            17,307 ObserverCameraPanel.java
+07/10/2019  04:14 PM             1,332 package.html
+07/10/2019  04:14 PM           113,322 package.properties
+07/10/2019  04:14 PM           180,063 package_bg.properties
+07/10/2019  04:14 PM            95,285 package_cs.properties
+07/10/2019  04:14 PM            90,714 package_de.properties
+07/10/2019  04:14 PM           197,976 package_el.properties
+07/10/2019  04:14 PM             3,001 package_en_AU.properties
+07/10/2019  04:14 PM             3,001 package_en_CA.properties
+07/10/2019  04:14 PM             3,091 package_en_US.properties
+07/10/2019  04:14 PM            89,378 package_es.properties
+07/10/2019  04:14 PM            91,602 package_fr.properties
+07/10/2019  04:14 PM            89,095 package_hu.properties
+07/10/2019  04:14 PM            89,404 package_it.properties
+07/10/2019  04:14 PM           117,441 package_ja.properties
+07/10/2019  04:14 PM            91,453 package_nl.properties
+07/10/2019  04:14 PM            92,605 package_pl.properties
+07/10/2019  04:14 PM            89,093 package_pt.properties
+07/10/2019  04:14 PM           190,620 package_ru.properties
+07/10/2019  04:14 PM            86,729 package_sv.properties
+07/10/2019  04:14 PM           102,909 package_vi.properties
+07/10/2019  04:14 PM           108,891 package_zh_CN.properties
+07/10/2019  04:14 PM           110,050 package_zh_TW.properties
+07/10/2019  04:14 PM            22,032 PageSetupPanel.java
+07/10/2019  04:14 PM            39,275 PhotoPanel.java
+07/10/2019  04:14 PM            21,627 PhotoSizeAndQualityPanel.java
+07/10/2019  04:14 PM            34,970 PhotosPanel.java
+07/10/2019  04:14 PM           298,813 PlanComponent.java
+07/10/2019  04:14 PM            11,308 PlanTransferHandler.java
+07/10/2019  04:14 PM            25,781 PolylinePanel.java
+07/10/2019  04:14 PM            10,111 PrintPreviewPanel.java
+07/10/2019  04:14 PM             8,894 ProportionalLayout.java
+07/10/2019  04:14 PM            12,084 ResourceAction.java
+07/10/2019  04:14 PM    <DIR>          resources
+07/10/2019  04:14 PM            40,409 RoomPanel.java
+07/10/2019  04:14 PM             8,776 ScaledImageComponent.java
+07/10/2019  04:14 PM            48,735 SwingTools.java
+07/10/2019  04:14 PM            14,076 SwingViewFactory.java
+07/10/2019  04:14 PM            45,692 TextureChoiceComponent.java
+07/10/2019  04:14 PM             6,126 ThreadedTaskPanel.java
+07/10/2019  04:14 PM             3,739 UnfocusableToolBar.java
+07/10/2019  04:14 PM            69,366 UserPreferencesPanel.java
+07/10/2019  04:14 PM            82,698 VideoPanel.java
+07/10/2019  04:14 PM             6,458 VisualTransferHandler.java
+07/10/2019  04:14 PM            65,009 WallPanel.java
+07/10/2019  04:14 PM            12,596 WizardPane.java
+              85 File(s)      4,313,199 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            29,519 aboutIcon.png
+07/10/2019  04:14 PM               722 animatedWait.gif
+07/10/2019  04:14 PM               267 ascending.png
+07/10/2019  04:14 PM    <DIR>          cursors
+07/10/2019  04:14 PM               396 day.png
+07/10/2019  04:14 PM               300 descending.png
+07/10/2019  04:14 PM               547 furnitureInformation.png
+07/10/2019  04:14 PM            18,463 furnitureOrientation.png
+07/10/2019  04:14 PM            57,581 furnitureOrientation@2x.png
+07/10/2019  04:14 PM             1,291 groupIcon.png
+07/10/2019  04:14 PM    <DIR>          icons
+07/10/2019  04:14 PM               333 night.png
+07/10/2019  04:14 PM             2,388 quality0.jpg
+07/10/2019  04:14 PM             2,438 quality1.jpg
+07/10/2019  04:14 PM             1,444 quality2.jpg
+07/10/2019  04:14 PM             2,137 quality3.jpg
+07/10/2019  04:14 PM               298 sameElevation.png
+07/10/2019  04:14 PM             1,435 wallOrientation.png
+              16 File(s)        119,559 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing\resources\cursors
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               187 elevation16x16-macosx.png
+07/10/2019  04:14 PM               946 elevation16x16.png
+07/10/2019  04:14 PM               962 elevation32x32.png
+07/10/2019  04:14 PM               185 height16x16-macosx.png
+07/10/2019  04:14 PM               945 height16x16.png
+07/10/2019  04:14 PM               963 height32x32.png
+07/10/2019  04:14 PM               212 move16x16-macosx.png
+07/10/2019  04:14 PM               202 move16x16.png
+07/10/2019  04:14 PM             1,001 move32x32.png
+07/10/2019  04:14 PM               205 panning16x16-macosx.png
+07/10/2019  04:14 PM               205 panning16x16.png
+07/10/2019  04:14 PM               983 panning32x32.png
+07/10/2019  04:14 PM               203 pipette16x16-macosx.png
+07/10/2019  04:14 PM               205 pipette16x16.png
+07/10/2019  04:14 PM               229 pipette32x32.png
+07/10/2019  04:14 PM               183 power16x16-macosx.png
+07/10/2019  04:14 PM               942 power16x16.png
+07/10/2019  04:14 PM               959 power32x32.png
+07/10/2019  04:14 PM               199 resize16x16-macosx.png
+07/10/2019  04:14 PM               958 resize16x16.png
+07/10/2019  04:14 PM               980 resize32x32.png
+07/10/2019  04:14 PM               447 rotation16x16-macosx.png
+07/10/2019  04:14 PM             1,124 rotation16x16.png
+07/10/2019  04:14 PM               506 rotation32x32.png
+              24 File(s)         13,931 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing\resources\icons
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               603 date.png
+07/10/2019  04:14 PM               772 homeFile.png
+07/10/2019  04:14 PM               747 homeName.png
+07/10/2019  04:14 PM               549 levelName.png
+07/10/2019  04:14 PM               474 pageCount.png
+07/10/2019  04:14 PM               453 pageNumber.png
+07/10/2019  04:14 PM               499 planScale.png
+07/10/2019  04:14 PM    <DIR>          tango
+07/10/2019  04:14 PM               826 time.png
+               8 File(s)          4,923 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\swing\resources\icons\tango
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               574 accessories-text-editor.png
+07/10/2019  04:14 PM               883 align-back-side.png
+07/10/2019  04:14 PM               921 align-front-side.png
+07/10/2019  04:14 PM               327 align-horizontal-left.png
+07/10/2019  04:14 PM               328 align-horizontal-right.png
+07/10/2019  04:14 PM               913 align-left-side.png
+07/10/2019  04:14 PM               953 align-right-side.png
+07/10/2019  04:14 PM               871 align-side-by-side.png
+07/10/2019  04:14 PM               295 align-vertical-bottom.png
+07/10/2019  04:14 PM               296 align-vertical-top.png
+07/10/2019  04:14 PM               864 camera-photo.png
+07/10/2019  04:14 PM               701 camera-video.png
+07/10/2019  04:14 PM             1,788 delete-camera-path.png
+07/10/2019  04:14 PM             1,682 delete-last-record.png
+07/10/2019  04:14 PM               863 dialog-information.png
+07/10/2019  04:14 PM               287 distribute-horizontally.png
+07/10/2019  04:14 PM               262 distribute-vertically.png
+07/10/2019  04:14 PM               477 document-new.png
+07/10/2019  04:14 PM               537 document-open.png
+07/10/2019  04:14 PM               618 document-page-setup.png
+07/10/2019  04:14 PM               644 document-print-pdf.png
+07/10/2019  04:14 PM               779 document-print-preview.png
+07/10/2019  04:14 PM               544 document-print.png
+07/10/2019  04:14 PM               819 document-save-and-compress.png
+07/10/2019  04:14 PM               866 document-save-as.png
+07/10/2019  04:14 PM               911 document-save.png
+07/10/2019  04:14 PM               773 edit-clear.png
+07/10/2019  04:14 PM               498 edit-copy.png
+07/10/2019  04:14 PM               807 edit-cut.png
+07/10/2019  04:14 PM               617 edit-find.png
+07/10/2019  04:14 PM               561 edit-paste.png
+07/10/2019  04:14 PM               591 edit-redo.png
+07/10/2019  04:14 PM               441 edit-select-all.png
+07/10/2019  04:14 PM               650 edit-undo.png
+07/10/2019  04:14 PM               705 format-text-bold.png
+07/10/2019  04:14 PM               849 format-text-decrease-size.png
+07/10/2019  04:14 PM               894 format-text-increase-size.png
+07/10/2019  04:14 PM               619 format-text-italic.png
+07/10/2019  04:14 PM               708 furniture-add.png
+07/10/2019  04:14 PM               749 furniture-import-texture.png
+07/10/2019  04:14 PM               602 furniture-import.png
+07/10/2019  04:14 PM               895 furniture-modify.png
+07/10/2019  04:14 PM               557 go-down-small.png
+07/10/2019  04:14 PM               683 go-down.png
+07/10/2019  04:14 PM               676 go-next.png
+07/10/2019  04:14 PM               655 go-previous.png
+07/10/2019  04:14 PM               506 go-up-small.png
+07/10/2019  04:14 PM               652 go-up.png
+07/10/2019  04:14 PM               932 help-browser.png
+07/10/2019  04:14 PM               299 identity.png
+07/10/2019  04:14 PM             1,211 image-loading.png
+07/10/2019  04:14 PM             1,066 image-missing.png
+07/10/2019  04:14 PM               514 language-import.png
+07/10/2019  04:14 PM               481 media-playback-pause.png
+07/10/2019  04:14 PM             1,028 media-playback-start.png
+07/10/2019  04:14 PM             1,266 media-record.png
+07/10/2019  04:14 PM             1,074 media-seek-backward.png
+07/10/2019  04:14 PM             1,205 media-seek-forward.png
+07/10/2019  04:14 PM             1,236 media-skip-backward.png
+07/10/2019  04:14 PM             1,225 media-skip-forward.png
+07/10/2019  04:14 PM               284 plan-add-level.png
+07/10/2019  04:14 PM               869 plan-create-dimension-lines.png
+07/10/2019  04:14 PM               398 plan-create-labels.png
+07/10/2019  04:14 PM               465 plan-create-polylines.png
+07/10/2019  04:14 PM               708 plan-create-rooms.png
+07/10/2019  04:14 PM               645 plan-create-walls.png
+07/10/2019  04:14 PM               773 plan-flip-horizontally.png
+07/10/2019  04:14 PM               800 plan-flip-vertically.png
+07/10/2019  04:14 PM               808 plan-import-background-image.png
+07/10/2019  04:14 PM               644 plan-locked.png
+07/10/2019  04:14 PM               771 plan-modify-background-image.png
+07/10/2019  04:14 PM               461 plan-modify-label.png
+07/10/2019  04:14 PM               859 plan-modify-rooms.png
+07/10/2019  04:14 PM               819 plan-modify-walls.png
+07/10/2019  04:14 PM               205 plan-pan.png
+07/10/2019  04:14 PM               193 plan-select.png
+07/10/2019  04:14 PM               612 plan-unlocked.png
+07/10/2019  04:14 PM               653 plan-zoom-in.png
+07/10/2019  04:14 PM               638 plan-zoom-out.png
+07/10/2019  04:14 PM               611 preferences-system.png
+07/10/2019  04:14 PM               430 view3d-attach.png
+07/10/2019  04:14 PM               410 view3d-detach.png
+07/10/2019  04:14 PM               977 view3d-modify.png
+07/10/2019  04:14 PM               756 view3d-view-from-observer.png
+07/10/2019  04:14 PM               907 view3d-view-from-top.png
+              85 File(s)         60,924 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\tools
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            15,984 ExtensionsClassLoader.java
+07/10/2019  04:14 PM            17,861 OperatingSystem.java
+07/10/2019  04:14 PM             1,086 OperatingSystem.properties
+07/10/2019  04:14 PM             1,078 package.html
+07/10/2019  04:14 PM             4,839 ResourceURLContent.java
+07/10/2019  04:14 PM             1,757 SimpleURLContent.java
+07/10/2019  04:14 PM             2,573 TemporaryURLContent.java
+07/10/2019  04:14 PM             6,810 URLContent.java
+               8 File(s)         51,988 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            12,256 AbstractPhotoController.java
+07/10/2019  04:14 PM            16,361 BackgroundImageWizardController.java
+07/10/2019  04:14 PM             8,331 BaseboardChoiceController.java
+07/10/2019  04:14 PM            12,076 CompassController.java
+07/10/2019  04:14 PM             2,853 ContentManager.java
+07/10/2019  04:14 PM             1,009 Controller.java
+07/10/2019  04:14 PM             1,127 DialogView.java
+07/10/2019  04:14 PM             2,165 ExportableView.java
+07/10/2019  04:14 PM            10,971 FurnitureCatalogController.java
+07/10/2019  04:14 PM            68,454 FurnitureController.java
+07/10/2019  04:14 PM             1,794 FurnitureView.java
+07/10/2019  04:14 PM            21,886 HelpController.java
+07/10/2019  04:14 PM             1,094 HelpView.java
+07/10/2019  04:14 PM            17,437 Home3DAttributesController.java
+07/10/2019  04:14 PM           151,946 HomeController.java
+07/10/2019  04:14 PM            43,162 HomeController3D.java
+07/10/2019  04:14 PM            80,967 HomeFurnitureController.java
+07/10/2019  04:14 PM            12,951 HomeView.java
+07/10/2019  04:14 PM            33,472 ImportedFurnitureWizardController.java
+07/10/2019  04:14 PM             1,252 ImportedFurnitureWizardStepsView.java
+07/10/2019  04:14 PM            14,684 ImportedTextureWizardController.java
+07/10/2019  04:14 PM            23,723 LabelController.java
+07/10/2019  04:14 PM            20,720 LevelController.java
+07/10/2019  04:14 PM             7,507 ModelMaterialsController.java
+07/10/2019  04:14 PM             1,523 Object3DFactory.java
+07/10/2019  04:14 PM            13,149 ObserverCameraController.java
+07/10/2019  04:14 PM             2,096 package.html
+07/10/2019  04:14 PM            13,232 package.properties
+07/10/2019  04:14 PM            27,263 package_bg.properties
+07/10/2019  04:14 PM            12,983 package_cs.properties
+07/10/2019  04:14 PM            12,280 package_de.properties
+07/10/2019  04:14 PM            27,603 package_el.properties
+07/10/2019  04:14 PM            12,897 package_es.properties
+07/10/2019  04:14 PM            13,434 package_fr.properties
+07/10/2019  04:14 PM            12,278 package_hu.properties
+07/10/2019  04:14 PM            12,324 package_it.properties
+07/10/2019  04:14 PM            17,282 package_ja.properties
+07/10/2019  04:14 PM            13,295 package_nl.properties
+07/10/2019  04:14 PM            12,750 package_pl.properties
+07/10/2019  04:14 PM            12,696 package_pt.properties
+07/10/2019  04:14 PM            26,763 package_ru.properties
+07/10/2019  04:14 PM            11,911 package_sv.properties
+07/10/2019  04:14 PM            14,284 package_vi.properties
+07/10/2019  04:14 PM            14,520 package_zh_CN.properties
+07/10/2019  04:14 PM            14,668 package_zh_TW.properties
+07/10/2019  04:14 PM             5,598 PageSetupController.java
+07/10/2019  04:14 PM             7,303 PhotoController.java
+07/10/2019  04:14 PM             7,397 PhotosController.java
+07/10/2019  04:14 PM           540,240 PlanController.java
+07/10/2019  04:14 PM             6,586 PlanView.java
+07/10/2019  04:14 PM            24,658 PolylineController.java
+07/10/2019  04:14 PM             2,334 PrintPreviewController.java
+07/10/2019  04:14 PM    <DIR>          resources
+07/10/2019  04:14 PM            73,843 RoomController.java
+07/10/2019  04:14 PM             6,364 TextureChoiceController.java
+07/10/2019  04:14 PM             1,288 TextureChoiceView.java
+07/10/2019  04:14 PM             5,255 ThreadedTaskController.java
+07/10/2019  04:14 PM             1,424 ThreadedTaskView.java
+07/10/2019  04:14 PM             1,963 TransferableView.java
+07/10/2019  04:14 PM            24,077 UserPreferencesController.java
+07/10/2019  04:14 PM            11,833 VideoController.java
+07/10/2019  04:14 PM               997 View.java
+07/10/2019  04:14 PM             9,345 ViewFactory.java
+07/10/2019  04:14 PM             8,912 ViewFactoryAdapter.java
+07/10/2019  04:14 PM            72,782 WallController.java
+07/10/2019  04:14 PM            10,816 WizardController.java
+              65 File(s)      1,690,444 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            33,616 backgroundImageWizard.png
+07/10/2019  04:14 PM    <DIR>          help
+07/10/2019  04:14 PM            12,248 importedFurnitureWizard.png
+07/10/2019  04:14 PM            20,377 importedTextureWizard.png
+07/10/2019  04:14 PM               303 repairedIcon.png
+07/10/2019  04:14 PM               126 repairedImage.png
+07/10/2019  04:14 PM               487 repairedModel.obj
+07/10/2019  04:14 PM                55 searchRelevance.gif
+               7 File(s)         67,212 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          bg
+07/10/2019  04:14 PM    <DIR>          cs
+07/10/2019  04:14 PM    <DIR>          de
+07/10/2019  04:14 PM    <DIR>          el
+07/10/2019  04:14 PM    <DIR>          en
+07/10/2019  04:14 PM    <DIR>          es
+07/10/2019  04:14 PM    <DIR>          fr
+07/10/2019  04:14 PM             1,825 help.css
+07/10/2019  04:14 PM             1,825 helpLargerFont.css
+07/10/2019  04:14 PM    <DIR>          hu
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM    <DIR>          it
+07/10/2019  04:14 PM    <DIR>          ja
+07/10/2019  04:14 PM    <DIR>          nl
+07/10/2019  04:14 PM    <DIR>          pl
+07/10/2019  04:14 PM    <DIR>          pt
+07/10/2019  04:14 PM    <DIR>          ru
+07/10/2019  04:14 PM    <DIR>          sv
+07/10/2019  04:14 PM    <DIR>          zh_CN
+07/10/2019  04:14 PM    <DIR>          zh_TW
+               2 File(s)          3,650 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\bg
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             8,229 addingFurniture.html
+07/10/2019  04:14 PM             9,124 addingLevels.html
+07/10/2019  04:14 PM             4,864 addingTexts.html
+07/10/2019  04:14 PM             4,406 creatingHome.html
+07/10/2019  04:14 PM            15,242 creatingPhotos.html
+07/10/2019  04:14 PM             7,273 creatingVideos.html
+07/10/2019  04:14 PM            10,163 drawingDimensions.html
+07/10/2019  04:14 PM            10,483 drawingRooms.html
+07/10/2019  04:14 PM             9,305 drawingWalls.html
+07/10/2019  04:14 PM            14,748 editing3DView.html
+07/10/2019  04:14 PM             6,430 editingCompass.html
+07/10/2019  04:14 PM             8,379 editingDimensions.html
+07/10/2019  04:14 PM            18,546 editingFurniture.html
+07/10/2019  04:14 PM             4,629 editingLevels.html
+07/10/2019  04:14 PM            11,324 editingPreferences.html
+07/10/2019  04:14 PM            12,788 editingRooms.html
+07/10/2019  04:14 PM            10,939 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,938 importingBackground.html
+07/10/2019  04:14 PM            11,151 importingFurniture.html
+07/10/2019  04:14 PM             2,001 index.html
+07/10/2019  04:14 PM             8,522 printingHome.html
+07/10/2019  04:14 PM             5,707 savingHome.html
+07/10/2019  04:14 PM            18,330 tips.html
+07/10/2019  04:14 PM             2,783 tocCreating.html
+07/10/2019  04:14 PM             2,134 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,836 tocEditing.html
+07/10/2019  04:14 PM             2,320 tocImporting.html
+07/10/2019  04:14 PM             2,897 tocStart.html
+07/10/2019  04:14 PM             7,226 ui.html
+              29 File(s)        239,717 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\bg\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            13,105 addingFurniture.png
+07/10/2019  04:14 PM            15,577 addingText.png
+07/10/2019  04:14 PM            33,325 creatingPhotos.jpg
+07/10/2019  04:14 PM            19,197 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            31,029 creatingVideos.jpg
+07/10/2019  04:14 PM             7,250 drawingWalls.png
+07/10/2019  04:14 PM            14,723 editing3DView.png
+07/10/2019  04:14 PM            14,087 editingCompass.png
+07/10/2019  04:14 PM            33,851 editingFurniture.png
+07/10/2019  04:14 PM            14,787 editingLevels.png
+07/10/2019  04:14 PM            14,839 editingMaterials.png
+07/10/2019  04:14 PM            39,832 editingPreferences.png
+07/10/2019  04:14 PM            21,182 editingRooms.png
+07/10/2019  04:14 PM            14,398 editingVirtualVisitor.png
+07/10/2019  04:14 PM            32,921 editingWalls.png
+07/10/2019  04:14 PM            14,448 pageSetup.png
+07/10/2019  04:14 PM            17,400 printPreview.png
+              17 File(s)        351,951 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\cs
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             4,402 addingFurniture.html
+07/10/2019  04:14 PM             2,762 creatingHome.html
+07/10/2019  04:14 PM             6,547 drawingDimensions.html
+07/10/2019  04:14 PM             5,471 drawingWalls.html
+07/10/2019  04:14 PM             7,449 editing3DView.html
+07/10/2019  04:14 PM             5,978 editingDimensions.html
+07/10/2019  04:14 PM             8,440 editingFurniture.html
+07/10/2019  04:14 PM             3,206 editingPreferences.html
+07/10/2019  04:14 PM             6,849 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,804 importingBackground.html
+07/10/2019  04:14 PM             7,430 importingFurniture.html
+07/10/2019  04:14 PM             3,820 index.html
+07/10/2019  04:14 PM             4,276 printingHome.html
+07/10/2019  04:14 PM             3,098 savingHome.html
+07/10/2019  04:14 PM             9,241 tips.html
+07/10/2019  04:14 PM             2,109 tocCreating.html
+07/10/2019  04:14 PM             2,058 tocEditing.html
+07/10/2019  04:14 PM             1,867 tocImporting.html
+07/10/2019  04:14 PM             2,483 tocStart.html
+07/10/2019  04:14 PM             4,513 ui.html
+              20 File(s)         97,803 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\cs\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            17,235 addingFurniture.png
+07/10/2019  04:14 PM             7,330 drawingWalls.png
+07/10/2019  04:14 PM            13,993 editing3DView.png
+07/10/2019  04:14 PM            32,638 editingFurniture.png
+07/10/2019  04:14 PM            39,161 editingPreferences.png
+07/10/2019  04:14 PM            12,861 editingVirtualVisitor.png
+07/10/2019  04:14 PM            32,613 editingWalls.png
+07/10/2019  04:14 PM            13,490 pageSetup.png
+07/10/2019  04:14 PM            18,491 printPreview.png
+               9 File(s)        187,812 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\de
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             7,097 addingFurniture.html
+07/10/2019  04:14 PM             7,548 addingLevels.html
+07/10/2019  04:14 PM             4,912 addingTexts.html
+07/10/2019  04:14 PM             3,764 creatingHome.html
+07/10/2019  04:14 PM            12,495 creatingPhotos.html
+07/10/2019  04:14 PM             5,993 creatingVideos.html
+07/10/2019  04:14 PM             8,303 drawingDimensions.html
+07/10/2019  04:14 PM             6,337 drawingPolylines.html
+07/10/2019  04:14 PM             8,261 drawingRooms.html
+07/10/2019  04:14 PM             8,154 drawingWalls.html
+07/10/2019  04:14 PM            12,120 editing3DView.html
+07/10/2019  04:14 PM             5,306 editingCompass.html
+07/10/2019  04:14 PM             5,854 editingDimensions.html
+07/10/2019  04:14 PM            15,642 editingFurniture.html
+07/10/2019  04:14 PM             3,683 editingLevels.html
+07/10/2019  04:14 PM             5,239 editingPolylines.html
+07/10/2019  04:14 PM            10,766 editingPreferences.html
+07/10/2019  04:14 PM            10,832 editingRooms.html
+07/10/2019  04:14 PM             8,427 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,076 importingBackground.html
+07/10/2019  04:14 PM             9,525 importingFurniture.html
+07/10/2019  04:14 PM             1,922 index.html
+07/10/2019  04:14 PM             6,948 printingHome.html
+07/10/2019  04:14 PM             4,854 savingHome.html
+07/10/2019  04:14 PM            17,887 tips.html
+07/10/2019  04:14 PM             2,540 tocCreating.html
+07/10/2019  04:14 PM             1,917 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,471 tocEditing.html
+07/10/2019  04:14 PM             1,970 tocImporting.html
+07/10/2019  04:14 PM             3,517 tocStart.html
+07/10/2019  04:14 PM             5,726 ui.html
+              31 File(s)        216,086 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\de\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,954 addingFurniture.png
+07/10/2019  04:14 PM            16,420 addingText.png
+07/10/2019  04:14 PM            34,572 creatingPhotos.jpg
+07/10/2019  04:14 PM            20,969 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            32,349 creatingVideos.jpg
+07/10/2019  04:14 PM             6,703 drawingWalls.png
+07/10/2019  04:14 PM            15,890 editing3DView.png
+07/10/2019  04:14 PM            14,464 editingCompass.png
+07/10/2019  04:14 PM            33,329 editingFurniture.png
+07/10/2019  04:14 PM            15,492 editingLevels.png
+07/10/2019  04:14 PM            15,899 editingMaterials.png
+07/10/2019  04:14 PM            10,645 editingPolylines.png
+07/10/2019  04:14 PM            39,621 editingPreferences.png
+07/10/2019  04:14 PM            22,345 editingRooms.png
+07/10/2019  04:14 PM            12,674 editingVirtualVisitor.png
+07/10/2019  04:14 PM            36,443 editingWalls.png
+07/10/2019  04:14 PM            14,562 pageSetup.png
+07/10/2019  04:14 PM            18,416 printPreview.png
+              18 File(s)        371,747 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\el
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,731 addingFurniture.html
+07/10/2019  04:14 PM             3,751 addingTexts.html
+07/10/2019  04:14 PM             3,292 creatingHome.html
+07/10/2019  04:14 PM             5,678 drawingDimensions.html
+07/10/2019  04:14 PM             8,045 drawingRooms.html
+07/10/2019  04:14 PM             6,806 drawingWalls.html
+07/10/2019  04:14 PM             8,587 editing3DView.html
+07/10/2019  04:14 PM             6,324 editingDimensions.html
+07/10/2019  04:14 PM            11,187 editingFurniture.html
+07/10/2019  04:14 PM             6,341 editingPreferences.html
+07/10/2019  04:14 PM             8,964 editingRooms.html
+07/10/2019  04:14 PM             8,274 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,049 importingBackground.html
+07/10/2019  04:14 PM             7,936 importingFurniture.html
+07/10/2019  04:14 PM             1,812 index.html
+07/10/2019  04:14 PM             6,196 printingHome.html
+07/10/2019  04:14 PM             4,357 savingHome.html
+07/10/2019  04:14 PM            12,051 tips.html
+07/10/2019  04:14 PM             2,287 tocCreating.html
+07/10/2019  04:14 PM             2,201 tocEditing.html
+07/10/2019  04:14 PM             1,894 tocImporting.html
+07/10/2019  04:14 PM             3,563 tocStart.html
+07/10/2019  04:14 PM             4,796 ui.html
+              23 File(s)        136,122 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\el\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            16,893 addingFurniture.png
+07/10/2019  04:14 PM            16,599 addingText.png
+07/10/2019  04:14 PM             7,480 drawingWalls.png
+07/10/2019  04:14 PM            14,854 editing3DView.png
+07/10/2019  04:14 PM            35,076 editingFurniture.png
+07/10/2019  04:14 PM            44,635 editingPreferences.png
+07/10/2019  04:14 PM            27,634 editingRooms.png
+07/10/2019  04:14 PM            14,455 editingVirtualVisitor.png
+07/10/2019  04:14 PM            37,542 editingWalls.png
+07/10/2019  04:14 PM            16,165 pageSetup.png
+07/10/2019  04:14 PM            19,132 printPreview.png
+              11 File(s)        250,465 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\en
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,311 addingFurniture.html
+07/10/2019  04:14 PM             6,489 addingLevels.html
+07/10/2019  04:14 PM             4,539 addingTexts.html
+07/10/2019  04:14 PM             3,390 creatingHome.html
+07/10/2019  04:14 PM            12,120 creatingPhotos.html
+07/10/2019  04:14 PM             5,665 creatingVideos.html
+07/10/2019  04:14 PM             6,719 drawingDimensions.html
+07/10/2019  04:14 PM             5,572 drawingPolylines.html
+07/10/2019  04:14 PM             7,708 drawingRooms.html
+07/10/2019  04:14 PM             7,054 drawingWalls.html
+07/10/2019  04:14 PM            10,998 editing3DView.html
+07/10/2019  04:14 PM             5,243 editingCompass.html
+07/10/2019  04:14 PM             6,074 editingDimensions.html
+07/10/2019  04:14 PM            15,292 editingFurniture.html
+07/10/2019  04:14 PM             3,448 editingLevels.html
+07/10/2019  04:14 PM             4,536 editingPolylines.html
+07/10/2019  04:14 PM            11,825 editingPreferences.html
+07/10/2019  04:14 PM            10,117 editingRooms.html
+07/10/2019  04:14 PM             9,070 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,941 importingBackground.html
+07/10/2019  04:14 PM             8,950 importingFurniture.html
+07/10/2019  04:14 PM             2,165 index.html
+07/10/2019  04:14 PM             7,620 printingHome.html
+07/10/2019  04:14 PM             4,523 savingHome.html
+07/10/2019  04:14 PM            16,681 tips.html
+07/10/2019  04:14 PM             2,412 tocCreating.html
+07/10/2019  04:14 PM             1,885 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,417 tocEditing.html
+07/10/2019  04:14 PM             1,921 tocImporting.html
+07/10/2019  04:14 PM             2,448 tocStart.html
+07/10/2019  04:14 PM             5,734 ui.html
+              31 File(s)        204,867 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\en\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,600 addingFurniture.png
+07/10/2019  04:14 PM            13,798 addingText.png
+07/10/2019  04:14 PM            33,450 creatingPhotos.jpg
+07/10/2019  04:14 PM            19,192 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            29,499 creatingVideos.jpg
+07/10/2019  04:14 PM             7,380 drawingWalls.png
+07/10/2019  04:14 PM            12,893 editing3DView.png
+07/10/2019  04:14 PM            13,792 editingCompass.png
+07/10/2019  04:14 PM            32,282 editingFurniture.png
+07/10/2019  04:14 PM            13,948 editingLevels.png
+07/10/2019  04:14 PM            15,045 editingMaterials.png
+07/10/2019  04:14 PM             9,213 editingPolylines.png
+07/10/2019  04:14 PM            34,701 editingPreferences.png
+07/10/2019  04:14 PM            21,329 editingRooms.png
+07/10/2019  04:14 PM            12,699 editingVirtualVisitor.png
+07/10/2019  04:14 PM            31,758 editingWalls.png
+07/10/2019  04:14 PM            12,708 pageSetup.png
+07/10/2019  04:14 PM            18,215 printPreview.png
+              18 File(s)        342,502 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\es
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,785 addingFurniture.html
+07/10/2019  04:14 PM             6,908 addingLevels.html
+07/10/2019  04:14 PM             3,984 addingTexts.html
+07/10/2019  04:14 PM             3,411 creatingHome.html
+07/10/2019  04:14 PM            12,223 creatingPhotos.html
+07/10/2019  04:14 PM             5,817 creatingVideos.html
+07/10/2019  04:14 PM             7,350 drawingDimensions.html
+07/10/2019  04:14 PM             8,816 drawingRooms.html
+07/10/2019  04:14 PM             7,264 drawingWalls.html
+07/10/2019  04:14 PM            12,152 editing3DView.html
+07/10/2019  04:14 PM             5,255 editingCompass.html
+07/10/2019  04:14 PM             6,411 editingDimensions.html
+07/10/2019  04:14 PM            13,531 editingFurniture.html
+07/10/2019  04:14 PM             3,567 editingLevels.html
+07/10/2019  04:14 PM             9,519 editingPreferences.html
+07/10/2019  04:14 PM            10,598 editingRooms.html
+07/10/2019  04:14 PM             8,979 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,080 importingBackground.html
+07/10/2019  04:14 PM             9,525 importingFurniture.html
+07/10/2019  04:14 PM             1,871 index.html
+07/10/2019  04:14 PM             6,380 printingHome.html
+07/10/2019  04:14 PM             4,753 savingHome.html
+07/10/2019  04:14 PM            15,804 tips.html
+07/10/2019  04:14 PM             2,418 tocCreating.html
+07/10/2019  04:14 PM             1,880 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,367 tocEditing.html
+07/10/2019  04:14 PM             1,948 tocImporting.html
+07/10/2019  04:14 PM             2,497 tocStart.html
+07/10/2019  04:14 PM             5,231 ui.html
+              29 File(s)        192,324 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\es\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,803 addingFurniture.png
+07/10/2019  04:14 PM            15,393 addingText.png
+07/10/2019  04:14 PM            35,780 creatingPhotos.jpg
+07/10/2019  04:14 PM            20,034 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            31,410 creatingVideos.jpg
+07/10/2019  04:14 PM             6,899 drawingWalls.png
+07/10/2019  04:14 PM            14,731 editing3DView.png
+07/10/2019  04:14 PM            14,126 editingCompass.png
+07/10/2019  04:14 PM            33,010 editingFurniture.png
+07/10/2019  04:14 PM            14,697 editingLevels.png
+07/10/2019  04:14 PM            16,386 editingMaterials.png
+07/10/2019  04:14 PM            42,643 editingPreferences.png
+07/10/2019  04:14 PM            23,477 editingRooms.png
+07/10/2019  04:14 PM            14,340 editingVirtualVisitor.png
+07/10/2019  04:14 PM            30,827 editingWalls.png
+07/10/2019  04:14 PM            13,186 pageSetup.png
+07/10/2019  04:14 PM            18,283 printPreview.png
+              17 File(s)        356,025 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\fr
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             9,084 addingFurniture.html
+07/10/2019  04:14 PM             7,899 addingLevels.html
+07/10/2019  04:14 PM             5,372 addingTexts.html
+07/10/2019  04:14 PM             3,994 creatingHome.html
+07/10/2019  04:14 PM            14,583 creatingPhotos.html
+07/10/2019  04:14 PM             7,291 creatingVideos.html
+07/10/2019  04:14 PM             8,148 drawingDimensions.html
+07/10/2019  04:14 PM             6,392 drawingPolylines.html
+07/10/2019  04:14 PM             9,585 drawingRooms.html
+07/10/2019  04:14 PM             9,687 drawingWalls.html
+07/10/2019  04:14 PM            13,344 editing3DView.html
+07/10/2019  04:14 PM             6,090 editingCompass.html
+07/10/2019  04:14 PM             7,258 editingDimensions.html
+07/10/2019  04:14 PM            18,642 editingFurniture.html
+07/10/2019  04:14 PM             4,029 editingLevels.html
+07/10/2019  04:14 PM             5,469 editingPolylines.html
+07/10/2019  04:14 PM            14,691 editingPreferences.html
+07/10/2019  04:14 PM            12,697 editingRooms.html
+07/10/2019  04:14 PM            11,013 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,877 importingBackground.html
+07/10/2019  04:14 PM            11,105 importingFurniture.html
+07/10/2019  04:14 PM             2,284 index.html
+07/10/2019  04:14 PM             7,263 printingHome.html
+07/10/2019  04:14 PM             5,203 savingHome.html
+07/10/2019  04:14 PM            20,186 tips.html
+07/10/2019  04:14 PM             2,786 tocCreating.html
+07/10/2019  04:14 PM             2,134 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,810 tocEditing.html
+07/10/2019  04:14 PM             2,182 tocImporting.html
+07/10/2019  04:14 PM             2,758 tocStart.html
+07/10/2019  04:14 PM             6,426 ui.html
+              31 File(s)        247,282 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\fr\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,914 addingFurniture.png
+07/10/2019  04:14 PM            14,505 addingText.png
+07/10/2019  04:14 PM            36,621 creatingPhotos.jpg
+07/10/2019  04:14 PM            21,548 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            30,715 creatingVideos.jpg
+07/10/2019  04:14 PM             6,504 drawingWalls.png
+07/10/2019  04:14 PM            13,301 editing3DView.png
+07/10/2019  04:14 PM            13,707 editingCompass.png
+07/10/2019  04:14 PM            33,938 editingFurniture.png
+07/10/2019  04:14 PM            15,197 editingLevels.png
+07/10/2019  04:14 PM            16,132 editingMaterials.png
+07/10/2019  04:14 PM             9,429 editingPolylines.png
+07/10/2019  04:14 PM            42,496 editingPreferences.png
+07/10/2019  04:14 PM            24,675 editingRooms.png
+07/10/2019  04:14 PM            14,226 editingVirtualVisitor.png
+07/10/2019  04:14 PM            32,722 editingWalls.png
+07/10/2019  04:14 PM            13,296 pageSetup.png
+07/10/2019  04:14 PM            18,653 printPreview.png
+              18 File(s)        368,579 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\hu
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,290 addingFurniture.html
+07/10/2019  04:14 PM             6,470 addingLevels.html
+07/10/2019  04:14 PM             3,295 addingTexts.html
+07/10/2019  04:14 PM             3,099 creatingHome.html
+07/10/2019  04:14 PM            10,506 creatingPhotos.html
+07/10/2019  04:14 PM             5,038 creatingVideos.html
+07/10/2019  04:14 PM             5,936 drawingDimensions.html
+07/10/2019  04:14 PM             7,540 drawingRooms.html
+07/10/2019  04:14 PM             6,567 drawingWalls.html
+07/10/2019  04:14 PM            10,180 editing3DView.html
+07/10/2019  04:14 PM             4,673 editingCompass.html
+07/10/2019  04:14 PM             5,847 editingDimensions.html
+07/10/2019  04:14 PM            12,721 editingFurniture.html
+07/10/2019  04:14 PM             3,192 editingLevels.html
+07/10/2019  04:14 PM             7,809 editingPreferences.html
+07/10/2019  04:14 PM             9,288 editingRooms.html
+07/10/2019  04:14 PM             8,201 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,113 importingBackground.html
+07/10/2019  04:14 PM             8,977 importingFurniture.html
+07/10/2019  04:14 PM             2,198 index.html
+07/10/2019  04:14 PM             6,008 printingHome.html
+07/10/2019  04:14 PM             4,600 savingHome.html
+07/10/2019  04:14 PM            14,423 tips.html
+07/10/2019  04:14 PM             2,431 tocCreating.html
+07/10/2019  04:14 PM             1,877 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,432 tocEditing.html
+07/10/2019  04:14 PM             1,942 tocImporting.html
+07/10/2019  04:14 PM             3,523 tocStart.html
+07/10/2019  04:14 PM             5,494 ui.html
+              29 File(s)        176,670 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\hu\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            16,646 addingFurniture.png
+07/10/2019  04:14 PM            15,591 addingText.png
+07/10/2019  04:14 PM            24,750 creatingPhotos.jpg
+07/10/2019  04:14 PM            22,658 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            31,194 creatingVideos.jpg
+07/10/2019  04:14 PM             7,298 drawingWalls.png
+07/10/2019  04:14 PM            12,956 editing3DView.png
+07/10/2019  04:14 PM            13,666 editingCompass.png
+07/10/2019  04:14 PM            34,094 editingFurniture.png
+07/10/2019  04:14 PM            12,807 editingLevels.png
+07/10/2019  04:14 PM            15,943 editingMaterials.png
+07/10/2019  04:14 PM            41,730 editingPreferences.png
+07/10/2019  04:14 PM            25,374 editingRooms.png
+07/10/2019  04:14 PM            13,570 editingVirtualVisitor.png
+07/10/2019  04:14 PM            32,183 editingWalls.png
+07/10/2019  04:14 PM            13,690 pageSetup.png
+07/10/2019  04:14 PM            18,236 printPreview.png
+              17 File(s)        352,386 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             2,155 3DNavigationPanel.png
+07/10/2019  04:14 PM             5,491 addingLevel.png
+07/10/2019  04:14 PM               951 addToHomeTool.png
+07/10/2019  04:14 PM            17,070 aerialView.png
+07/10/2019  04:14 PM            29,519 applicationIcon.png
+07/10/2019  04:14 PM               958 applicationIcon16.png
+07/10/2019  04:14 PM             2,604 applicationIcon32.png
+07/10/2019  04:14 PM            64,009 applicationPanes.png
+07/10/2019  04:14 PM            60,680 applicationPanesVirtualVisit.png
+07/10/2019  04:14 PM                58 bullet.gif
+07/10/2019  04:14 PM            32,079 coloredRendering.png
+07/10/2019  04:14 PM             4,609 compassIndicators.png
+07/10/2019  04:14 PM             3,792 createDimensionsTool.png
+07/10/2019  04:14 PM             4,438 createLabelsTool.png
+07/10/2019  04:14 PM             1,200 createPhotoTool.png
+07/10/2019  04:14 PM               784 createPolylinesTool.png
+07/10/2019  04:14 PM             4,545 createRoomsTool.png
+07/10/2019  04:14 PM               936 createVideoTool.png
+07/10/2019  04:14 PM             3,611 createWallsTool.png
+07/10/2019  04:14 PM            18,892 defaultLens.jpg
+07/10/2019  04:14 PM            21,658 defaultRendering.png
+07/10/2019  04:14 PM            16,089 depthOfFieldLens.jpg
+07/10/2019  04:14 PM             8,179 dimensionIndicators.png
+07/10/2019  04:14 PM             7,374 drawingDimensions.png
+07/10/2019  04:14 PM             8,057 drawingExtensionLines.png
+07/10/2019  04:14 PM             9,035 drawingPolylines.png
+07/10/2019  04:14 PM            16,449 drawingRooms1.png
+07/10/2019  04:14 PM            16,161 drawingRooms2.png
+07/10/2019  04:14 PM             9,294 fisheyeLens.png
+07/10/2019  04:14 PM             4,260 furnitureCorners.png
+07/10/2019  04:14 PM            19,796 horizontalOrientation.jpg
+07/10/2019  04:14 PM             3,658 importFurnitureTool.png
+07/10/2019  04:14 PM             9,577 importingBackgroundStep1.png
+07/10/2019  04:14 PM            13,930 importingBackgroundStep2.png
+07/10/2019  04:14 PM            14,908 importingBackgroundStep3.png
+07/10/2019  04:14 PM            14,062 importingBackgroundStep4.png
+07/10/2019  04:14 PM            28,303 importingBackgroundStep5.png
+07/10/2019  04:14 PM            22,813 importingBackgroundStep6.png
+07/10/2019  04:14 PM             7,743 importingFurnitureStep1.png
+07/10/2019  04:14 PM            12,419 importingFurnitureStep2.png
+07/10/2019  04:14 PM            10,830 importingFurnitureStep3.png
+07/10/2019  04:14 PM             7,759 importingFurnitureStep4.png
+07/10/2019  04:14 PM             6,573 level1WithHighWalls.png
+07/10/2019  04:14 PM            56,633 notRecomputedWallsAroundRoom.png
+07/10/2019  04:14 PM            15,257 photoQuality0.jpg
+07/10/2019  04:14 PM            15,593 photoQuality1.jpg
+07/10/2019  04:14 PM            17,787 photoQuality2.jpg
+07/10/2019  04:14 PM            16,775 photoQuality3.jpg
+07/10/2019  04:14 PM             8,332 polylinePoints.png
+07/10/2019  04:14 PM            56,573 recomputedWallsAroundRoom.png
+07/10/2019  04:14 PM            13,892 roomPoints.png
+07/10/2019  04:14 PM               690 selectTool.png
+07/10/2019  04:14 PM            12,589 sphericalLens.jpg
+07/10/2019  04:14 PM               367 verticalLine.gif
+07/10/2019  04:14 PM            10,529 verticalOrientation.jpg
+07/10/2019  04:14 PM            19,804 virtualVisit.png
+07/10/2019  04:14 PM             3,114 virtualVisitorIndicators.png
+07/10/2019  04:14 PM             7,408 wallEnds.png
+07/10/2019  04:14 PM             4,378 wallIndicators.png
+              59 File(s)        807,029 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\it
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,875 addingFurniture.html
+07/10/2019  04:14 PM             3,861 addingTexts.html
+07/10/2019  04:14 PM             3,526 creatingHome.html
+07/10/2019  04:14 PM             5,998 drawingDimensions.html
+07/10/2019  04:14 PM             9,804 drawingRooms.html
+07/10/2019  04:14 PM             9,860 drawingWalls.html
+07/10/2019  04:14 PM             8,559 editing3DView.html
+07/10/2019  04:14 PM             5,982 editingDimensions.html
+07/10/2019  04:14 PM            10,632 editingFurniture.html
+07/10/2019  04:14 PM             6,211 editingPreferences.html
+07/10/2019  04:14 PM            10,614 editingRooms.html
+07/10/2019  04:14 PM             7,807 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,287 importingBackground.html
+07/10/2019  04:14 PM             8,052 importingFurniture.html
+07/10/2019  04:14 PM             1,963 index.html
+07/10/2019  04:14 PM             5,817 printingHome.html
+07/10/2019  04:14 PM             4,189 savingHome.html
+07/10/2019  04:14 PM            11,353 tips.html
+07/10/2019  04:14 PM             2,317 tocCreating.html
+07/10/2019  04:14 PM             2,212 tocEditing.html
+07/10/2019  04:14 PM             1,914 tocImporting.html
+07/10/2019  04:14 PM             2,496 tocStart.html
+07/10/2019  04:14 PM             4,047 ui.html
+              23 File(s)        139,376 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\it\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,532 addingFurniture.png
+07/10/2019  04:14 PM            15,122 addingText.png
+07/10/2019  04:14 PM             6,700 drawingWalls.png
+07/10/2019  04:14 PM            12,984 editing3DView.png
+07/10/2019  04:14 PM            35,788 editingFurniture.png
+07/10/2019  04:14 PM            39,150 editingPreferences.png
+07/10/2019  04:14 PM            21,092 editingRooms.png
+07/10/2019  04:14 PM            13,386 editingVirtualVisitor.png
+07/10/2019  04:14 PM            36,541 editingWalls.png
+07/10/2019  04:14 PM            13,477 pageSetup.png
+07/10/2019  04:14 PM            18,680 printPreview.png
+              11 File(s)        223,452 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\ja
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,215 addingFurniture.html
+07/10/2019  04:14 PM             5,444 addingLevels.html
+07/10/2019  04:14 PM             4,400 addingTexts.html
+07/10/2019  04:14 PM             3,121 creatingHome.html
+07/10/2019  04:14 PM             9,732 creatingPhotos.html
+07/10/2019  04:14 PM             4,638 creatingVideos.html
+07/10/2019  04:14 PM             5,135 drawingDimensions.html
+07/10/2019  04:14 PM             4,963 drawingPolylines.html
+07/10/2019  04:14 PM             7,055 drawingRooms.html
+07/10/2019  04:14 PM             7,160 drawingWalls.html
+07/10/2019  04:14 PM             6,832 editing3DView.html
+07/10/2019  04:14 PM             4,448 editingCompass.html
+07/10/2019  04:14 PM             5,708 editingDimensions.html
+07/10/2019  04:14 PM            10,176 editingFurniture.html
+07/10/2019  04:14 PM             2,859 editingLevels.html
+07/10/2019  04:14 PM             3,941 editingPolylines.html
+07/10/2019  04:14 PM             5,732 editingPreferences.html
+07/10/2019  04:14 PM             9,251 editingRooms.html
+07/10/2019  04:14 PM             7,704 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,607 importingBackground.html
+07/10/2019  04:14 PM             7,620 importingFurniture.html
+07/10/2019  04:14 PM             1,880 index.html
+07/10/2019  04:14 PM             5,691 printingHome.html
+07/10/2019  04:14 PM             4,191 savingHome.html
+07/10/2019  04:14 PM            16,581 tips.html
+07/10/2019  04:14 PM             2,331 tocCreating.html
+07/10/2019  04:14 PM             1,846 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,351 tocEditing.html
+07/10/2019  04:14 PM             1,907 tocImporting.html
+07/10/2019  04:14 PM             3,381 tocStart.html
+07/10/2019  04:14 PM             5,145 ui.html
+              31 File(s)        172,045 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\ja\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            16,983 addingFurniture.png
+07/10/2019  04:14 PM            12,729 addingText.png
+07/10/2019  04:14 PM            37,964 creatingPhotos.jpg
+07/10/2019  04:14 PM            16,563 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            45,032 creatingVideos.jpg
+07/10/2019  04:14 PM             7,156 drawingWalls.png
+07/10/2019  04:14 PM            10,673 editing3DView.png
+07/10/2019  04:14 PM            11,900 editingCompass.png
+07/10/2019  04:14 PM            26,734 editingFurniture.png
+07/10/2019  04:14 PM            12,209 editingLevels.png
+07/10/2019  04:14 PM            14,328 editingMaterials.png
+07/10/2019  04:14 PM             9,150 editingPolylines.png
+07/10/2019  04:14 PM            31,647 editingPreferences.png
+07/10/2019  04:14 PM            17,719 editingRooms.png
+07/10/2019  04:14 PM            11,525 editingVirtualVisitor.png
+07/10/2019  04:14 PM            25,681 editingWalls.png
+07/10/2019  04:14 PM            11,933 pageSetup.png
+07/10/2019  04:14 PM            21,268 printPreview.png
+              18 File(s)        341,194 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\nl
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,029 addingFurniture.html
+07/10/2019  04:14 PM             6,991 addingLevels.html
+07/10/2019  04:14 PM             3,625 addingTexts.html
+07/10/2019  04:14 PM             3,313 creatingHome.html
+07/10/2019  04:14 PM            11,568 creatingPhotos.html
+07/10/2019  04:14 PM             5,163 creatingVideos.html
+07/10/2019  04:14 PM             6,396 drawingDimensions.html
+07/10/2019  04:14 PM             7,633 drawingRooms.html
+07/10/2019  04:14 PM             6,610 drawingWalls.html
+07/10/2019  04:14 PM            10,945 editing3DView.html
+07/10/2019  04:14 PM             4,946 editingCompass.html
+07/10/2019  04:14 PM             6,030 editingDimensions.html
+07/10/2019  04:14 PM            14,495 editingFurniture.html
+07/10/2019  04:14 PM             3,586 editingLevels.html
+07/10/2019  04:14 PM             9,253 editingPreferences.html
+07/10/2019  04:14 PM             9,860 editingRooms.html
+07/10/2019  04:14 PM             8,267 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,257 importingBackground.html
+07/10/2019  04:14 PM             9,322 importingFurniture.html
+07/10/2019  04:14 PM             2,291 index.html
+07/10/2019  04:14 PM             6,506 printingHome.html
+07/10/2019  04:14 PM             4,477 savingHome.html
+07/10/2019  04:14 PM            14,480 tips.html
+07/10/2019  04:14 PM             2,493 tocCreating.html
+07/10/2019  04:14 PM             2,005 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,531 tocEditing.html
+07/10/2019  04:14 PM             2,092 tocImporting.html
+07/10/2019  04:14 PM             2,537 tocStart.html
+07/10/2019  04:14 PM             5,747 ui.html
+              29 File(s)        185,448 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\nl\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            20,650 addingFurniture.png
+07/10/2019  04:14 PM            14,768 addingText.png
+07/10/2019  04:14 PM            34,724 creatingPhotos.jpg
+07/10/2019  04:14 PM            20,495 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            30,311 creatingVideos.jpg
+07/10/2019  04:14 PM             7,918 drawingWalls.png
+07/10/2019  04:14 PM            14,823 editing3DView.png
+07/10/2019  04:14 PM            15,076 editingCompass.png
+07/10/2019  04:14 PM            32,347 editingFurniture.png
+07/10/2019  04:14 PM            15,923 editingLevels.png
+07/10/2019  04:14 PM            15,588 editingMaterials.png
+07/10/2019  04:14 PM            40,470 editingPreferences.png
+07/10/2019  04:14 PM            22,421 editingRooms.png
+07/10/2019  04:14 PM            13,265 editingVirtualVisitor.png
+07/10/2019  04:14 PM            32,963 editingWalls.png
+07/10/2019  04:14 PM            13,728 pageSetup.png
+07/10/2019  04:14 PM            18,569 printPreview.png
+              17 File(s)        364,039 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\pl
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,183 addingFurniture.html
+07/10/2019  04:14 PM             4,099 creatingHome.html
+07/10/2019  04:14 PM             7,355 drawingDimensions.html
+07/10/2019  04:14 PM             8,262 drawingWalls.html
+07/10/2019  04:14 PM            13,006 editing3DView.html
+07/10/2019  04:14 PM             7,186 editingDimensions.html
+07/10/2019  04:14 PM            13,885 editingFurniture.html
+07/10/2019  04:14 PM            10,062 editingPreferences.html
+07/10/2019  04:14 PM             9,936 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,872 importingBackground.html
+07/10/2019  04:14 PM            10,490 importingFurniture.html
+07/10/2019  04:14 PM             2,373 index.html
+07/10/2019  04:14 PM             4,901 printingHome.html
+07/10/2019  04:14 PM             4,161 savingHome.html
+07/10/2019  04:14 PM            10,307 tips.html
+07/10/2019  04:14 PM             2,128 tocCreating.html
+07/10/2019  04:14 PM             2,123 tocEditing.html
+07/10/2019  04:14 PM             1,902 tocImporting.html
+07/10/2019  04:14 PM             2,567 tocStart.html
+07/10/2019  04:14 PM             4,828 ui.html
+              20 File(s)        132,626 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\pl\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            15,951 addingFurniture.png
+07/10/2019  04:14 PM             7,301 drawingWalls.png
+07/10/2019  04:14 PM            15,424 editing3DView.png
+07/10/2019  04:14 PM            31,772 editingFurniture.png
+07/10/2019  04:14 PM            15,953 editingMaterials.png
+07/10/2019  04:14 PM            38,332 editingPreferences.png
+07/10/2019  04:14 PM            14,027 editingVirtualVisitor.png
+07/10/2019  04:14 PM            35,078 editingWalls.png
+07/10/2019  04:14 PM            13,864 pageSetup.png
+07/10/2019  04:14 PM            18,500 printPreview.png
+              10 File(s)        206,202 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\pt
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,069 addingFurniture.html
+07/10/2019  04:14 PM             6,633 addingLevels.html
+07/10/2019  04:14 PM             4,755 addingTexts.html
+07/10/2019  04:14 PM             3,272 creatingHome.html
+07/10/2019  04:14 PM            11,307 creatingPhotos.html
+07/10/2019  04:14 PM             5,824 creatingVideos.html
+07/10/2019  04:14 PM             6,943 drawingDimensions.html
+07/10/2019  04:14 PM             8,011 drawingRooms.html
+07/10/2019  04:14 PM             5,542 drawingWalls.html
+07/10/2019  04:14 PM             9,709 editing3DView.html
+07/10/2019  04:14 PM             5,249 editingCompass.html
+07/10/2019  04:14 PM             6,611 editingDimensions.html
+07/10/2019  04:14 PM             9,295 editingFurniture.html
+07/10/2019  04:14 PM             3,314 editingLevels.html
+07/10/2019  04:14 PM             5,190 editingPreferences.html
+07/10/2019  04:14 PM            10,173 editingRooms.html
+07/10/2019  04:14 PM             7,179 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,702 importingBackground.html
+07/10/2019  04:14 PM             8,452 importingFurniture.html
+07/10/2019  04:14 PM             1,964 index.html
+07/10/2019  04:14 PM             4,460 printingHome.html
+07/10/2019  04:14 PM             4,784 savingHome.html
+07/10/2019  04:14 PM            16,054 tips.html
+07/10/2019  04:14 PM             2,411 tocCreating.html
+07/10/2019  04:14 PM             2,008 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,455 tocEditing.html
+07/10/2019  04:14 PM             1,949 tocImporting.html
+07/10/2019  04:14 PM             2,515 tocStart.html
+07/10/2019  04:14 PM             5,500 ui.html
+              29 File(s)        173,330 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\pt\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,328 addingFurniture.png
+07/10/2019  04:14 PM            14,783 addingText.png
+07/10/2019  04:14 PM            32,867 creatingPhotos.jpg
+07/10/2019  04:14 PM            31,561 creatingVideos.jpg
+07/10/2019  04:14 PM             6,797 drawingWalls.png
+07/10/2019  04:14 PM            13,260 editing3DView.png
+07/10/2019  04:14 PM            13,488 editingCompass.png
+07/10/2019  04:14 PM            33,660 editingFurniture.png
+07/10/2019  04:14 PM            14,287 editingLevels.png
+07/10/2019  04:14 PM            15,990 editingMaterials.png
+07/10/2019  04:14 PM            10,365 editingPolylines.png
+07/10/2019  04:14 PM            40,289 editingPreferences.png
+07/10/2019  04:14 PM            22,345 editingRooms.png
+07/10/2019  04:14 PM            15,275 editingVirtualVisitor.png
+07/10/2019  04:14 PM            31,049 editingWalls.png
+07/10/2019  04:14 PM            13,955 pageSetup.png
+07/10/2019  04:14 PM            18,521 printPreview.png
+              17 File(s)        338,820 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\ru
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             7,744 addingFurniture.html
+07/10/2019  04:14 PM             9,055 addingLevels.html
+07/10/2019  04:14 PM             4,242 addingTexts.html
+07/10/2019  04:14 PM             3,888 creatingHome.html
+07/10/2019  04:14 PM            15,382 creatingPhotos.html
+07/10/2019  04:14 PM             7,205 creatingVideos.html
+07/10/2019  04:14 PM             7,869 drawingDimensions.html
+07/10/2019  04:14 PM            10,298 drawingRooms.html
+07/10/2019  04:14 PM             9,264 drawingWalls.html
+07/10/2019  04:14 PM            13,332 editing3DView.html
+07/10/2019  04:14 PM             6,299 editingCompass.html
+07/10/2019  04:14 PM             6,895 editingDimensions.html
+07/10/2019  04:14 PM            17,285 editingFurniture.html
+07/10/2019  04:14 PM             4,501 editingLevels.html
+07/10/2019  04:14 PM            11,184 editingPreferences.html
+07/10/2019  04:14 PM            11,989 editingRooms.html
+07/10/2019  04:14 PM            10,501 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             6,454 importingBackground.html
+07/10/2019  04:14 PM            11,659 importingFurniture.html
+07/10/2019  04:14 PM             1,904 index.html
+07/10/2019  04:14 PM             7,900 printingHome.html
+07/10/2019  04:14 PM             6,051 savingHome.html
+07/10/2019  04:14 PM            17,574 tips.html
+07/10/2019  04:14 PM             2,737 tocCreating.html
+07/10/2019  04:14 PM             2,130 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,921 tocEditing.html
+07/10/2019  04:14 PM             2,222 tocImporting.html
+07/10/2019  04:14 PM             2,749 tocStart.html
+07/10/2019  04:14 PM             5,989 ui.html
+              29 File(s)        227,223 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\ru\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            15,975 addingFurniture.png
+07/10/2019  04:14 PM            16,326 addingText.png
+07/10/2019  04:14 PM            39,157 creatingPhotos.jpg
+07/10/2019  04:14 PM            20,024 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            33,600 creatingVideos.jpg
+07/10/2019  04:14 PM             7,208 drawingWalls.png
+07/10/2019  04:14 PM            15,212 editing3DView.png
+07/10/2019  04:14 PM            16,813 editingCompass.png
+07/10/2019  04:14 PM            35,275 editingFurniture.png
+07/10/2019  04:14 PM            15,678 editingLevels.png
+07/10/2019  04:14 PM            16,119 editingMaterials.png
+07/10/2019  04:14 PM            42,879 editingPreferences.png
+07/10/2019  04:14 PM            23,494 editingRooms.png
+07/10/2019  04:14 PM            13,258 editingVirtualVisitor.png
+07/10/2019  04:14 PM            35,960 editingWalls.png
+07/10/2019  04:14 PM            14,927 pageSetup.png
+07/10/2019  04:14 PM            19,108 printPreview.png
+              17 File(s)        381,013 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\sv
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             6,289 addingFurniture.html
+07/10/2019  04:14 PM             6,308 addingLevels.html
+07/10/2019  04:14 PM             4,399 addingTexts.html
+07/10/2019  04:14 PM             3,266 creatingHome.html
+07/10/2019  04:14 PM            11,232 creatingPhotos.html
+07/10/2019  04:14 PM             5,288 creatingVideos.html
+07/10/2019  04:14 PM             6,357 drawingDimensions.html
+07/10/2019  04:14 PM             5,691 drawingPolylines.html
+07/10/2019  04:14 PM             6,912 drawingRooms.html
+07/10/2019  04:14 PM             6,422 drawingWalls.html
+07/10/2019  04:14 PM             9,994 editing3DView.html
+07/10/2019  04:14 PM             5,017 editingCompass.html
+07/10/2019  04:14 PM             6,434 editingDimensions.html
+07/10/2019  04:14 PM            12,966 editingFurniture.html
+07/10/2019  04:14 PM             3,339 editingLevels.html
+07/10/2019  04:14 PM             4,423 editingPolylines.html
+07/10/2019  04:14 PM             9,048 editingPreferences.html
+07/10/2019  04:14 PM             9,971 editingRooms.html
+07/10/2019  04:14 PM             7,599 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,962 importingBackground.html
+07/10/2019  04:14 PM             8,688 importingFurniture.html
+07/10/2019  04:14 PM             1,869 index.html
+07/10/2019  04:14 PM             6,206 printingHome.html
+07/10/2019  04:14 PM             4,511 savingHome.html
+07/10/2019  04:14 PM            14,928 tips.html
+07/10/2019  04:14 PM             2,394 tocCreating.html
+07/10/2019  04:14 PM             1,845 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,374 tocEditing.html
+07/10/2019  04:14 PM             1,913 tocImporting.html
+07/10/2019  04:14 PM             2,436 tocStart.html
+07/10/2019  04:14 PM             5,152 ui.html
+              31 File(s)        189,233 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\sv\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            15,832 addingFurniture.png
+07/10/2019  04:14 PM            14,941 addingText.png
+07/10/2019  04:14 PM            34,080 creatingPhotos.jpg
+07/10/2019  04:14 PM            18,511 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            30,079 creatingVideos.jpg
+07/10/2019  04:14 PM             7,274 drawingWalls.png
+07/10/2019  04:14 PM            14,232 editing3DView.png
+07/10/2019  04:14 PM            14,041 editingCompass.png
+07/10/2019  04:14 PM            31,693 editingFurniture.png
+07/10/2019  04:14 PM            15,035 editingLevels.png
+07/10/2019  04:14 PM            15,818 editingMaterials.png
+07/10/2019  04:14 PM             9,487 editingPolylines.png
+07/10/2019  04:14 PM            38,076 editingPreferences.png
+07/10/2019  04:14 PM            21,282 editingRooms.png
+07/10/2019  04:14 PM            12,073 editingVirtualVisitor.png
+07/10/2019  04:14 PM            33,575 editingWalls.png
+07/10/2019  04:14 PM            14,680 pageSetup.png
+07/10/2019  04:14 PM            18,604 printPreview.png
+              18 File(s)        359,313 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\zh_CN
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             4,497 addingFurniture.html
+07/10/2019  04:14 PM             4,482 addingLevels.html
+07/10/2019  04:14 PM             3,170 addingTexts.html
+07/10/2019  04:14 PM             2,849 creatingHome.html
+07/10/2019  04:14 PM            10,913 creatingPhotos.html
+07/10/2019  04:14 PM             4,286 creatingVideos.html
+07/10/2019  04:14 PM             4,446 drawingDimensions.html
+07/10/2019  04:14 PM             4,554 drawingPolylines.html
+07/10/2019  04:14 PM             6,394 drawingRooms.html
+07/10/2019  04:14 PM             6,397 drawingWalls.html
+07/10/2019  04:14 PM             7,993 editing3DView.html
+07/10/2019  04:14 PM             4,482 editingCompass.html
+07/10/2019  04:14 PM             5,166 editingDimensions.html
+07/10/2019  04:14 PM            11,249 editingFurniture.html
+07/10/2019  04:14 PM             2,670 editingLevels.html
+07/10/2019  04:14 PM             3,439 editingPolylines.html
+07/10/2019  04:14 PM             5,668 editingPreferences.html
+07/10/2019  04:14 PM             8,087 editingRooms.html
+07/10/2019  04:14 PM             6,512 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,032 importingBackground.html
+07/10/2019  04:14 PM             6,773 importingFurniture.html
+07/10/2019  04:14 PM             2,180 index.html
+07/10/2019  04:14 PM             4,978 printingHome.html
+07/10/2019  04:14 PM             3,693 savingHome.html
+07/10/2019  04:14 PM            12,300 tips.html
+07/10/2019  04:14 PM             2,318 tocCreating.html
+07/10/2019  04:14 PM             1,895 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,326 tocEditing.html
+07/10/2019  04:14 PM             1,787 tocImporting.html
+07/10/2019  04:14 PM             2,285 tocStart.html
+07/10/2019  04:14 PM             4,208 ui.html
+              31 File(s)        157,029 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\zh_CN\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            15,269 addingFurniture.png
+07/10/2019  04:14 PM            12,272 addingText.png
+07/10/2019  04:14 PM            50,482 creatingPhotos.jpg
+07/10/2019  04:14 PM            15,724 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            46,388 creatingVideos.jpg
+07/10/2019  04:14 PM             7,355 drawingWalls.png
+07/10/2019  04:14 PM            10,926 editing3DView.png
+07/10/2019  04:14 PM            11,920 editingCompass.png
+07/10/2019  04:14 PM            26,039 editingFurniture.png
+07/10/2019  04:14 PM            13,642 editingLevels.png
+07/10/2019  04:14 PM            14,045 editingMaterials.png
+07/10/2019  04:14 PM             9,193 editingPolylines.png
+07/10/2019  04:14 PM            32,248 editingPreferences.png
+07/10/2019  04:14 PM            17,132 editingRooms.png
+07/10/2019  04:14 PM            11,127 editingVirtualVisitor.png
+07/10/2019  04:14 PM            26,297 editingWalls.png
+07/10/2019  04:14 PM            12,022 pageSetup.png
+07/10/2019  04:14 PM            21,299 printPreview.png
+              18 File(s)        353,380 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\zh_TW
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             5,076 addingFurniture.html
+07/10/2019  04:14 PM             4,559 addingLevels.html
+07/10/2019  04:14 PM             3,521 addingTexts.html
+07/10/2019  04:14 PM             3,075 creatingHome.html
+07/10/2019  04:14 PM             9,430 creatingPhotos.html
+07/10/2019  04:14 PM             4,405 creatingVideos.html
+07/10/2019  04:14 PM             4,882 drawingDimensions.html
+07/10/2019  04:14 PM             4,583 drawingPolylines.html
+07/10/2019  04:14 PM             6,817 drawingRooms.html
+07/10/2019  04:14 PM             5,914 drawingWalls.html
+07/10/2019  04:14 PM             6,886 editing3DView.html
+07/10/2019  04:14 PM             4,554 editingCompass.html
+07/10/2019  04:14 PM             5,397 editingDimensions.html
+07/10/2019  04:14 PM            10,783 editingFurniture.html
+07/10/2019  04:14 PM             2,720 editingLevels.html
+07/10/2019  04:14 PM             3,551 editingPolylines.html
+07/10/2019  04:14 PM             5,971 editingPreferences.html
+07/10/2019  04:14 PM             8,784 editingRooms.html
+07/10/2019  04:14 PM             7,434 editingWalls.html
+07/10/2019  04:14 PM    <DIR>          images
+07/10/2019  04:14 PM             5,644 importingBackground.html
+07/10/2019  04:14 PM             7,139 importingFurniture.html
+07/10/2019  04:14 PM             2,265 index.html
+07/10/2019  04:14 PM             5,387 printingHome.html
+07/10/2019  04:14 PM             4,004 savingHome.html
+07/10/2019  04:14 PM            12,610 tips.html
+07/10/2019  04:14 PM             2,372 tocCreating.html
+07/10/2019  04:14 PM             1,914 tocCreatingPhotos.html
+07/10/2019  04:14 PM             2,286 tocEditing.html
+07/10/2019  04:14 PM             1,816 tocImporting.html
+07/10/2019  04:14 PM             2,329 tocStart.html
+07/10/2019  04:14 PM             4,490 ui.html
+              31 File(s)        160,598 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\eteks\sweethome3d\viewcontroller\resources\help\zh_TW\images
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            13,007 addingFurniture.png
+07/10/2019  04:14 PM            11,741 addingText.png
+07/10/2019  04:14 PM            50,658 creatingPhotos.jpg
+07/10/2019  04:14 PM            15,137 creatingPhotosAtPointsOfView.png
+07/10/2019  04:14 PM            46,443 creatingVideos.jpg
+07/10/2019  04:14 PM             6,010 drawingWalls.png
+07/10/2019  04:14 PM            10,790 editing3DView.png
+07/10/2019  04:14 PM            12,320 editingCompass.png
+07/10/2019  04:14 PM            25,640 editingFurniture.png
+07/10/2019  04:14 PM            12,273 editingLevels.png
+07/10/2019  04:14 PM            13,180 editingMaterials.png
+07/10/2019  04:14 PM             9,117 editingPolylines.png
+07/10/2019  04:14 PM            30,798 editingPreferences.png
+07/10/2019  04:14 PM            17,910 editingRooms.png
+07/10/2019  04:14 PM            11,990 editingVirtualVisitor.png
+07/10/2019  04:14 PM            25,682 editingWalls.png
+07/10/2019  04:14 PM            11,919 pageSetup.png
+07/10/2019  04:14 PM            21,539 printPreview.png
+              18 File(s)        346,154 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          swing
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          internal
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing\internal
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          plaf
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing\internal\plaf
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          basic
+07/10/2019  04:14 PM    <DIR>          metal
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing\internal\plaf\basic
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          resources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing\internal\plaf\basic\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             9,222 basic.properties
+07/10/2019  04:14 PM             7,702 basic_bg.properties
+07/10/2019  04:14 PM             5,750 basic_cs.properties
+07/10/2019  04:14 PM             9,793 basic_de.properties
+07/10/2019  04:14 PM             8,443 basic_el.properties
+07/10/2019  04:14 PM             9,733 basic_es.properties
+07/10/2019  04:14 PM             9,805 basic_fr.properties
+07/10/2019  04:14 PM             6,349 basic_hu.properties
+07/10/2019  04:14 PM             9,594 basic_it.properties
+07/10/2019  04:14 PM             6,387 basic_nl.properties
+07/10/2019  04:14 PM             5,359 basic_pl.properties
+07/10/2019  04:14 PM             9,701 basic_pt.properties
+07/10/2019  04:14 PM             8,002 basic_ru.properties
+07/10/2019  04:14 PM             9,497 basic_sv.properties
+07/10/2019  04:14 PM             6,489 basic_vi.properties
+              15 File(s)        121,826 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing\internal\plaf\metal
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          resources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\src\com\sun\swing\internal\plaf\metal\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM             3,297 metal.properties
+07/10/2019  04:14 PM             3,779 metal_bg.properties
+07/10/2019  04:14 PM             2,427 metal_cs.properties
+07/10/2019  04:14 PM             3,371 metal_de.properties
+07/10/2019  04:14 PM             4,381 metal_el.properties
+07/10/2019  04:14 PM             3,359 metal_es.properties
+07/10/2019  04:14 PM             3,430 metal_fr.properties
+07/10/2019  04:14 PM             3,190 metal_hu.properties
+07/10/2019  04:14 PM             3,356 metal_it.properties
+07/10/2019  04:14 PM             3,242 metal_nl.properties
+07/10/2019  04:14 PM             2,328 metal_pl.properties
+07/10/2019  04:14 PM             3,357 metal_pt.properties
+07/10/2019  04:14 PM             4,271 metal_ru.properties
+07/10/2019  04:14 PM             3,310 metal_sv.properties
+07/10/2019  04:14 PM             3,294 metal_vi.properties
+              15 File(s)         50,392 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\test
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\test\com
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          eteks
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\test\com\eteks
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          sweethome3d
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\test\com\eteks\sweethome3d
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM    <DIR>          junit
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\test\com\eteks\sweethome3d\junit
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM            10,777 BackgroundImageWizardTest.java
+07/10/2019  04:14 PM             5,542 CatalogTreeTest.java
+07/10/2019  04:14 PM            11,832 FurnitureTableTest.java
+07/10/2019  04:14 PM            24,909 HomeCameraTest.java
+07/10/2019  04:14 PM            31,665 HomeControllerTest.java
+07/10/2019  04:14 PM            12,673 HomeFileRecorderTest.java
+07/10/2019  04:14 PM            11,636 HomeFurniturePanelTest.java
+07/10/2019  04:14 PM             6,902 HomeTest.java
+07/10/2019  04:14 PM             6,774 IconManagerTest.java
+07/10/2019  04:14 PM            23,288 ImportedFurnitureWizardTest.java
+07/10/2019  04:14 PM            26,345 ImportedTextureWizardTest.java
+07/10/2019  04:14 PM            16,758 LevelTest.java
+07/10/2019  04:14 PM             2,413 ModelManagerTest.java
+07/10/2019  04:14 PM             6,831 OBJWriterTest.java
+07/10/2019  04:14 PM             3,787 OperatingSystemTest.java
+07/10/2019  04:14 PM            11,580 PackageDependenciesTest.java
+07/10/2019  04:14 PM            15,578 PhotoCreationTest.java
+07/10/2019  04:14 PM            24,522 PlanComponentTest.java
+07/10/2019  04:14 PM            30,700 PlanComponentWithFurnitureTest.java
+07/10/2019  04:14 PM            14,996 PlanControllerTest.java
+07/10/2019  04:14 PM            14,360 PrintTest.java
+07/10/2019  04:14 PM    <DIR>          resources
+07/10/2019  04:14 PM            18,757 RoomTest.java
+07/10/2019  04:14 PM             3,219 TestUtilities.java
+07/10/2019  04:14 PM             7,233 ThreadedTaskControllerTest.java
+07/10/2019  04:14 PM            12,404 TransferHandlerTest.java
+07/10/2019  04:14 PM            22,820 UserPreferencesPanelTest.java
+07/10/2019  04:14 PM             8,128 WallPanelTest.java
+07/10/2019  04:14 PM             9,010 WizardControllerTest.java
+              28 File(s)        395,439 bytes
+
+ Directory of C:\Users\Matteo\Desktop\SweetHome3DSourceCode\SweetHome3D-6.2-src\test\com\eteks\sweethome3d\junit\resources
+
+07/10/2019  04:14 PM    <DIR>          .
+07/10/2019  04:14 PM    <DIR>          ..
+07/10/2019  04:14 PM               238 Add16.gif
+07/10/2019  04:14 PM            20,480 damagedHome.sh3d
+07/10/2019  04:14 PM             5,075 damagedHomeInValidZipWithContentDigestsAndNoContent.sh3d
+07/10/2019  04:14 PM            20,480 damagedHomeWithContentDigests.sh3d
+07/10/2019  04:14 PM               208 Delete16.gif
+07/10/2019  04:14 PM             5,919 holes.sh3d
+07/10/2019  04:14 PM            70,775 home1.sh3d
+07/10/2019  04:14 PM             2,366 homeTest.xml
+07/10/2019  04:14 PM               201 Redo16.gif
+07/10/2019  04:14 PM             8,262 test.dae
+07/10/2019  04:14 PM               991 test.obj
+07/10/2019  04:14 PM             1,619 test.png
+07/10/2019  04:14 PM               202 Undo16.gif
+              13 File(s)        136,816 bytes
+
+     Total Files Listed:
+            1808 File(s)     55,375,453 bytes
+             344 Dir(s)  128,214,892,544 bytes free
